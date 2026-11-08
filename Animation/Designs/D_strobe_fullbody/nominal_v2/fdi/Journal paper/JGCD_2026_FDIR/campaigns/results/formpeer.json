@@ -1,0 +1,48 @@
+{
+ "FORM_LOCAL": {
+  "n": 3,
+  "correct": 0,
+  "wrong": 0,
+  "missed": 3,
+  "ci": [
+   0.0,
+   0.5615060804490177
+  ],
+  "early_peer_first": 0,
+  "delay_median": null
+ },
+ "NAV_GLOBAL": {
+  "n": 3,
+  "correct": 0,
+  "wrong": 0,
+  "missed": 3,
+  "ci": [
+   0.0,
+   0.5615060804490177
+  ],
+  "n_form_fleetwide": 0
+ },
+ "PEER_STRESS": {
+  "floored": {
+   "n": 50,
+   "trials_with_false_alarm": 0,
+   "ci": [
+    0.0,
+    0.07135003417431873
+   ]
+  },
+  "no_floor": {
+   "n": 50,
+   "trials_with_false_alarm": 0,
+   "ci": [
+    0.0,
+    0.07135003417431873
+   ]
+  }
+ },
+ "meta": {
+  "n_trials": 3,
+  "wall_s": 29.653348445892334,
+  "data": "/sessions/cool-hopeful-franklin/mnt/Animation/Designs/D_strobe_fullbody/nominal_v2/data/mc/draw_0000/_nav_stage"
+ }
+}

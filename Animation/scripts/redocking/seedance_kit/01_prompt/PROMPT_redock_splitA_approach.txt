@@ -1,0 +1,13 @@
+OPTIONAL SPLIT A — APPROACH (12–15 s)
+Use if the single 30 s clip drifts. Same uploads / same order as the main prompt.
+
+PROMPT:
+Eight small 6U CubeSats exactly like @Image1 and @Image4 drift slowly toward the
+cylindrical metallic ring structure from @Image3, converging from different directions
+against deep black space. Keep the exact design, materials and lighting of @Video1.
+They close in steadily, thrusters puffing gently, the ring growing in frame. The camera
+tracks alongside one CubeSat as it lines up with an empty docking port.
+Slow, weightless, precise. Photoreal NASA mission-film look, 16:9.
+
+NEGATIVE: text, labels, watermark, people, cartoon, morphing spacecraft, fast camera,
+Earth, asteroid, cuts.

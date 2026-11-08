@@ -1,0 +1,13 @@
+SHOT 9 — FINALE / BEAUTY (8 s)
+INGREDIENTS: 03_cad/cad_fleet_docked_on_ring.png (+ ref_t16s.jpg for the Earth look)
+
+PROMPT:
+Wide majestic shot of the complete spacecraft — a cylindrical ring with eight small
+CubeSats docked around it — drifting slowly through space with Earth as a brilliant
+blue crescent behind it. The sun rises past the edge of the spacecraft creating a
+warm rim light. Camera slowly pulls back and up. Triumphant, calm, cinematic.
+STYLE (append to every prompt):
+photoreal cinematic space documentary, NASA/ESA mission film look, deep black space,
+hard single sunlight from one side with soft blue Earth-shine fill, crisp starfield,
+no lens flare spam, no text, no captions, no watermark, no people, no UI overlays,
+subtle slow camera move, shallow depth cues, 16:9, filmic color, high detail.

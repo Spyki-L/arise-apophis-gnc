@@ -1,0 +1,15 @@
+SHOT 3 — CUBESAT HERO / BEAUTY PASS (8 s)
+INGREDIENTS: 03_cad/cad_deputy_hero.png  (primary — locks the design)
+             03_cad/cad_deputy_camera_face.png  (secondary angle)
+
+PROMPT:
+Close hero shot of a small 6U CubeSat spacecraft in space — rectangular black anodised
+frame with aluminium rails, dark blue-green solar panels on its faces, a circular camera
+lens aperture on one end. It rotates slowly and majestically against black space, sunlight
+sweeping across the panels and glinting off the metal rails as it turns. Camera slowly
+pushes in. Earth is a soft blurred blue arc far in the background.
+STYLE (append to every prompt):
+photoreal cinematic space documentary, NASA/ESA mission film look, deep black space,
+hard single sunlight from one side with soft blue Earth-shine fill, crisp starfield,
+no lens flare spam, no text, no captions, no watermark, no people, no UI overlays,
+subtle slow camera move, shallow depth cues, 16:9, filmic color, high detail.

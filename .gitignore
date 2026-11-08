@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# simulation outputs are regenerated locally and get large fast (single runs hit 30+ MB)
+*.npz
+*.npy
+*.xlsx
+*.mp4
+*.gif
+*.bsp
+*.tpc
+*.tgz
+outputs/
+artifacts/

@@ -1,0 +1,14 @@
+SHOT 5 — CRUISE / FORMATION FLIGHT (8 s)
+INGREDIENTS: 03_cad/cad_deputy_hero.png (+ 04_trajectory_plates/plate_imaging_formation.png)
+
+PROMPT:
+Eight small CubeSats fly in loose formation through deep space, spread across the frame
+at different distances, all travelling the same direction. Faint thruster glints. Ahead
+of them a dim grey irregular asteroid is just becoming visible as a small lit shape.
+The camera flies alongside the formation, slowly overtaking it. Long lens, strong sense
+of scale and distance, stars streaking slowly behind.
+STYLE (append to every prompt):
+photoreal cinematic space documentary, NASA/ESA mission film look, deep black space,
+hard single sunlight from one side with soft blue Earth-shine fill, crisp starfield,
+no lens flare spam, no text, no captions, no watermark, no people, no UI overlays,
+subtle slow camera move, shallow depth cues, 16:9, filmic color, high detail.

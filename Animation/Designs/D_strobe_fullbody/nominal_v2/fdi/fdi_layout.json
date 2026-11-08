@@ -1,0 +1,81 @@
+{
+  "layout": {
+    "ops": [
+      0.313,
+      0.505,
+      0.39,
+      0.487
+    ],
+    "coverage": [
+      0.313,
+      0.078,
+      0.39,
+      0.414
+    ],
+    "innovations": [
+      0.004,
+      0.505,
+      0.295,
+      0.487
+    ],
+    "deputy": [
+      0.004,
+      0.078,
+      0.295,
+      0.414
+    ],
+    "subsystems": [
+      0.717,
+      0.674,
+      0.279,
+      0.318
+    ],
+    "architecture": [
+      0.717,
+      0.467,
+      0.279,
+      0.2
+    ],
+    "isl": [
+      0.717,
+      0.078,
+      0.279,
+      0.382
+    ],
+    "loss": [
+      0.717,
+      0.078,
+      0.279,
+      0.2
+    ],
+    "scope": [
+      0.4,
+      0.4,
+      0.2,
+      0.2
+    ]
+  },
+  "titles": {
+    "ops": "W1 \u00b7 MISSION OPS",
+    "architecture": "W4 \u00b7 AUTONOMY",
+    "scope": "W2 \u00b7 FDI SCOPE",
+    "innovations": "W7 \u00b7 INNOVATION MONITOR",
+    "subsystems": "W3 \u00b7 SUBSYSTEMS",
+    "coverage": "W8 \u00b7 COVERAGE & STROBE",
+    "deputy": "W5 \u00b7 DEPUTY DEEP-DIVE",
+    "isl": "W6 \u00b7 ISL NETWORK",
+    "loss": "W9 \u00b7 LOSS COMPENSATION"
+  },
+  "shown": {
+    "ops": true,
+    "architecture": true,
+    "scope": false,
+    "innovations": true,
+    "subsystems": true,
+    "coverage": true,
+    "deputy": true,
+    "isl": true,
+    "loss": false
+  },
+  "font_scale": 1.25
+}

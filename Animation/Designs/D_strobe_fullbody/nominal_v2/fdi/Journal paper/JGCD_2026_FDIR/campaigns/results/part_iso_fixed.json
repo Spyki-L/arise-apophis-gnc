@@ -1,0 +1,20 @@
+{
+ "part": "iso:fixed",
+ "n": 150,
+ "confusion": {
+  "NAV": {
+   "NAV": 150
+  },
+  "ATT": {
+   "ATT": 150
+  },
+  "PROP": {
+   "PROP": 146,
+   "NONE": 4
+  },
+  "COMM": {
+   "COMM": 150
+  }
+ },
+ "wall_s": 31.959256887435913
+}

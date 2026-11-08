@@ -1,0 +1,19 @@
+{
+ "part": "iso:legacy",
+ "n": 150,
+ "confusion": {
+  "NAV": {
+   "NAV": 150
+  },
+  "ATT": {
+   "ATT": 150
+  },
+  "PROP": {
+   "NONE": 150
+  },
+  "COMM": {
+   "COMM": 150
+  }
+ },
+ "wall_s": 31.333194732666016
+}

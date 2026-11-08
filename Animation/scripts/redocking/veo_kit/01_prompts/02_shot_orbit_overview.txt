@@ -1,0 +1,15 @@
+SHOT 2 — ORBIT / TRAJECTORY OVERVIEW (8 s)
+INGREDIENTS: 04_trajectory_plates/plate_orbits_real.png  (+ ref_t34s.jpg)
+NOTE: this is the money shot for the meeting — it shows the REAL mission geometry.
+
+PROMPT:
+Wide view of Earth as a small blue sphere at frame centre against black space. Two
+glowing orbital trails arc around it: a bright white trail (the spacecraft) and a
+red-orange trail (asteroid Apophis) converging toward each other. The trails draw
+themselves forward through space as thin luminous ribbons. Camera slowly orbits the
+scene left to right, parallax revealing the 3D shape of the two paths.
+STYLE (append to every prompt):
+photoreal cinematic space documentary, NASA/ESA mission film look, deep black space,
+hard single sunlight from one side with soft blue Earth-shine fill, crisp starfield,
+no lens flare spam, no text, no captions, no watermark, no people, no UI overlays,
+subtle slow camera move, shallow depth cues, 16:9, filmic color, high detail.

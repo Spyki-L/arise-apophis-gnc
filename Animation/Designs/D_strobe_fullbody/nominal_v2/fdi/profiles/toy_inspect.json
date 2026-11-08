@@ -1,0 +1,39 @@
+{
+  "name": "GEO_Inspection_Swarm",
+  "target": {
+    "name": "GEO_RSO",
+    "kind": "point",
+    "n_facets": 0,
+    "spin_period_h": 0.0,
+    "npa_tumble": false
+  },
+  "objective": {
+    "name": "inspection_viewsphere_coverage",
+    "metric": "viewsphere_coverage",
+    "resolution_tiers_m": [0.05],
+    "target_value": 0.95
+  },
+  "fleet": {
+    "n_deputies": 4,
+    "bus": "generic_3U",
+    "adcs": "reaction_wheels",
+    "prop": "electric",
+    "isl": "crosslink",
+    "camera": "monocular",
+    "dv_budget_mps": 50.0
+  },
+  "encounter": {
+    "epoch_utc": "2030-01-01T00:00:00Z",
+    "v_rel_kms": 0.01,
+    "ca_distance_km": 0.5,
+    "form_window_s": 7200.0,
+    "mean_motion_radps": 7.29e-5
+  },
+  "contingency_table": {},
+  "surrogate_correction": 1.0,
+  "meta": {
+    "note": "deliberately different mission - genericity control profile",
+    "nu_nav": 1.2,
+    "h_nav": 12.0
+  }
+}

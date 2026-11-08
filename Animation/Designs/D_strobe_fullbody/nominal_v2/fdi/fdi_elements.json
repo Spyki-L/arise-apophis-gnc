@@ -1,0 +1,6807 @@
+{
+  "font_scale": 1.0,
+  "graphs": [
+    {
+      "id": "ops/0",
+      "window": "ops",
+      "rect": [
+        0.0085,
+        0.7657,
+        0.1175,
+        0.2073
+      ],
+      "axes_margins": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "label": "W1 MISSION OPS \u00b7 graph 0"
+    },
+    {
+      "id": "ops/1",
+      "window": "ops",
+      "rect": [
+        0.005,
+        0.6552,
+        0.06065538194444445,
+        0.10432552650689908
+      ],
+      "axes_margins": [
+        0.4124135426238106,
+        0.0,
+        0.5875864573761894,
+        0.2786938124964424
+      ],
+      "label": "W1 MISSION OPS \u00b7 graph 1"
+    },
+    {
+      "id": "ops/2",
+      "window": "ops",
+      "rect": [
+        0.0711,
+        0.6552,
+        0.062181260850694434,
+        0.10432552650689908
+      ],
+      "axes_margins": [
+        0.6880297162811068,
+        0.0,
+        0.31197028371889324,
+        0.2786938124964424
+      ],
+      "label": "W1 MISSION OPS \u00b7 graph 2"
+    },
+    {
+      "id": "ops/3",
+      "window": "ops",
+      "rect": [
+        0.1333,
+        0.8636,
+        0.0659,
+        0.1094
+      ],
+      "axes_margins": [
+        0.6481857764876634,
+        0.0,
+        0.35181422351233665,
+        0.8187671296511354
+      ],
+      "label": "W1 MISSION OPS \u00b7 graph 3"
+    },
+    {
+      "id": "ops/4",
+      "window": "ops",
+      "rect": [
+        0.2062,
+        0.8636,
+        0.1059,
+        0.1094
+      ],
+      "axes_margins": [
+        0.7256897513404756,
+        0.0,
+        0.27431024865952436,
+        0.8187671296511354
+      ],
+      "label": "W1 MISSION OPS \u00b7 graph 4"
+    },
+    {
+      "id": "ops/5",
+      "window": "ops",
+      "rect": [
+        0.1333,
+        0.7638,
+        0.06585693359374997,
+        0.09116285403050106
+      ],
+      "axes_margins": [
+        0.7450749636600833,
+        0.0,
+        0.25492503633991664,
+        0.4719314122920226
+      ],
+      "label": "W1 MISSION OPS \u00b7 graph 5"
+    },
+    {
+      "id": "ops/6",
+      "window": "ops",
+      "rect": [
+        0.2062,
+        0.7634,
+        0.1067,
+        0.0916
+      ],
+      "axes_margins": [
+        0.7261307781915949,
+        0.0,
+        0.2738692218084053,
+        0.4719314122920226
+      ],
+      "label": "W1 MISSION OPS \u00b7 graph 6"
+    },
+    {
+      "id": "ops/7",
+      "window": "ops",
+      "rect": [
+        0.1393,
+        0.6534,
+        0.1736,
+        0.1012
+      ],
+      "axes_margins": [
+        0.45577009429726095,
+        0.0,
+        0.544229905702739,
+        0.3526660879522746
+      ],
+      "label": "W1 MISSION OPS \u00b7 graph 7"
+    },
+    {
+      "id": "architecture/0",
+      "window": "architecture",
+      "rect": [
+        0.3196,
+        0.6971,
+        0.33,
+        0.2759
+      ],
+      "axes_margins": [
+        0.0,
+        0.0,
+        1.0,
+        0.9325714285714287
+      ],
+      "label": "W4 AUTONOMY BRAIN \u00b7 graph 0"
+    },
+    {
+      "id": "scope/0",
+      "window": "scope",
+      "rect": [
+        0.6587,
+        0.7347,
+        0.2835,
+        0.2383
+      ],
+      "axes_margins": [
+        0.0,
+        0.0,
+        0.9083488342694093,
+        0.8991425915085569
+      ],
+      "label": "W2 FDI SCOPE \u00b7 graph 0"
+    },
+    {
+      "id": "scope/1",
+      "window": "scope",
+      "rect": [
+        0.9497,
+        0.734,
+        0.0444,
+        0.239
+      ],
+      "axes_margins": [
+        0.0,
+        0.0,
+        0.9400206825232672,
+        0.9223813112283344
+      ],
+      "label": "W2 FDI SCOPE \u00b7 graph 1"
+    },
+    {
+      "id": "scope/2",
+      "window": "scope",
+      "rect": [
+        0.6587,
+        0.6714,
+        0.3358,
+        0.0469
+      ],
+      "axes_margins": [
+        0.0,
+        0.0,
+        0.9189633799797982,
+        0.08788473505337226
+      ],
+      "label": "W2 FDI SCOPE \u00b7 graph 2"
+    },
+    {
+      "id": "innovations/0",
+      "window": "innovations",
+      "rect": [
+        0.0053,
+        0.5034,
+        0.3275,
+        0.0837
+      ],
+      "axes_margins": [
+        0.0875166694791794,
+        0.4212384039385764,
+        0.9124833305208208,
+        0.5787615960614236
+      ],
+      "label": "W7 INNOVATION \u00b7 graph 0"
+    },
+    {
+      "id": "innovations/1",
+      "window": "innovations",
+      "rect": [
+        0.0055,
+        0.3754,
+        0.3281,
+        0.0496
+      ],
+      "axes_margins": [
+        0.0875166694791794,
+        0.0,
+        0.9124833305208208,
+        1.0
+      ],
+      "label": "W7 INNOVATION \u00b7 graph 1"
+    },
+    {
+      "id": "innovations/2",
+      "window": "innovations",
+      "rect": [
+        0.0055,
+        0.4379,
+        0.3285,
+        0.0566
+      ],
+      "axes_margins": [
+        0.0875166694791794,
+        0.0,
+        0.9124833305208208,
+        0.7069548657002223
+      ],
+      "label": "W7 INNOVATION \u00b7 graph 2"
+    },
+    {
+      "id": "innovations/3",
+      "window": "innovations",
+      "rect": [
+        0.006,
+        0.3421,
+        0.3276,
+        0.0219
+      ],
+      "axes_margins": [
+        0.07207300155616511,
+        0.0,
+        0.927926998443835,
+        0.28293266615903406
+      ],
+      "label": "W7 INNOVATION \u00b7 graph 3"
+    },
+    {
+      "id": "innovations/4",
+      "window": "innovations",
+      "rect": [
+        0.006,
+        0.1694,
+        0.08415841584158415,
+        0.1369117647058823
+      ],
+      "axes_margins": [
+        0.6572930296511499,
+        0.0,
+        0.3427069703488501,
+        1.0
+      ],
+      "label": "W7 INNOVATION \u00b7 graph 4"
+    },
+    {
+      "id": "innovations/5",
+      "window": "innovations",
+      "rect": [
+        0.005,
+        0.0188,
+        0.0837,
+        0.1373
+      ],
+      "axes_margins": [
+        0.6572930296511499,
+        0.0,
+        0.3427069703488501,
+        0.8990729097621677
+      ],
+      "label": "W7 INNOVATION \u00b7 graph 5"
+    },
+    {
+      "id": "innovations/6",
+      "window": "innovations",
+      "rect": [
+        0.0053,
+        0.5986,
+        0.3277,
+        0.02
+      ],
+      "axes_margins": [
+        0.04519532119675978,
+        0.8232065479056331,
+        0.9548046788032403,
+        0.17679345209436698
+      ],
+      "label": "W7 INNOVATION \u00b7 graph 6"
+    },
+    {
+      "id": "subsystems/0",
+      "window": "subsystems",
+      "rect": [
+        0.3399,
+        0.5312,
+        0.07425742574257427,
+        0.11274509803921562
+      ],
+      "axes_margins": [
+        0.0,
+        0.06392977478276309,
+        0.5636393700136414,
+        0.9360702252172369
+      ],
+      "label": "W3 SUBSYSTEMS \u00b7 graph 0"
+    },
+    {
+      "id": "subsystems/1",
+      "window": "subsystems",
+      "rect": [
+        0.4208,
+        0.5324,
+        0.07456356841738859,
+        0.11274509803921562
+      ],
+      "axes_margins": [
+        0.0,
+        0.06392977478276309,
+        0.9560000036974011,
+        0.9360702252172369
+      ],
+      "label": "W3 SUBSYSTEMS \u00b7 graph 1"
+    },
+    {
+      "id": "subsystems/2",
+      "window": "subsystems",
+      "rect": [
+        0.5017,
+        0.5324,
+        0.07425742574257432,
+        0.11274509803921562
+      ],
+      "axes_margins": [
+        0.014669749963867785,
+        0.06392977478276309,
+        0.9853302500361322,
+        0.9360702252172369
+      ],
+      "label": "W3 SUBSYSTEMS \u00b7 graph 2"
+    },
+    {
+      "id": "subsystems/3",
+      "window": "subsystems",
+      "rect": [
+        0.5825,
+        0.5324,
+        0.07425742574257432,
+        0.11274509803921562
+      ],
+      "axes_margins": [
+        0.42673954172797984,
+        0.06392977478276309,
+        0.5732604582720201,
+        0.9360702252172369
+      ],
+      "label": "W3 SUBSYSTEMS \u00b7 graph 3"
+    },
+    {
+      "id": "subsystems/4",
+      "window": "subsystems",
+      "rect": [
+        0.3399,
+        0.3927,
+        0.07425742574257427,
+        0.11274509803921567
+      ],
+      "axes_margins": [
+        0.0,
+        0.0,
+        0.5636393700136414,
+        0.9624396025161821
+      ],
+      "label": "W3 SUBSYSTEMS \u00b7 graph 4"
+    },
+    {
+      "id": "subsystems/5",
+      "window": "subsystems",
+      "rect": [
+        0.4211,
+        0.3927,
+        0.07425742574257427,
+        0.11274509803921567
+      ],
+      "axes_margins": [
+        0.0,
+        0.0,
+        0.9572451558550968,
+        0.9624396025161821
+      ],
+      "label": "W3 SUBSYSTEMS \u00b7 graph 5"
+    },
+    {
+      "id": "subsystems/6",
+      "window": "subsystems",
+      "rect": [
+        0.5017,
+        0.3927,
+        0.07425742574257432,
+        0.11274509803921567
+      ],
+      "axes_margins": [
+        0.014669749963867785,
+        0.0,
+        0.9853302500361322,
+        0.9624396025161821
+      ],
+      "label": "W3 SUBSYSTEMS \u00b7 graph 6"
+    },
+    {
+      "id": "subsystems/7",
+      "window": "subsystems",
+      "rect": [
+        0.5825,
+        0.3927,
+        0.07425742574257432,
+        0.11274509803921567
+      ],
+      "axes_margins": [
+        0.42673954172797984,
+        0.0,
+        0.5732604582720201,
+        0.9624396025161821
+      ],
+      "label": "W3 SUBSYSTEMS \u00b7 graph 7"
+    },
+    {
+      "id": "subsystems/8",
+      "window": "subsystems",
+      "rect": [
+        0.3399,
+        0.3422,
+        0.3167,
+        0.0413
+      ],
+      "axes_margins": [
+        0.0,
+        0.0,
+        1.0,
+        0.1737224320509687
+      ],
+      "label": "W3 SUBSYSTEMS \u00b7 graph 8"
+    },
+    {
+      "id": "coverage/0",
+      "window": "coverage",
+      "rect": [
+        0.6665,
+        0.3436,
+        0.1554,
+        0.3011
+      ],
+      "axes_margins": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "label": "W8 COVERAGE \u00b7 graph 0"
+    },
+    {
+      "id": "coverage/1",
+      "window": "coverage",
+      "rect": [
+        0.8306,
+        0.4763,
+        0.1635,
+        0.1684
+      ],
+      "axes_margins": [
+        0.0,
+        0.13932411544601486,
+        0.9776702232977672,
+        0.8606758845539851
+      ],
+      "label": "W8 COVERAGE \u00b7 graph 1"
+    },
+    {
+      "id": "coverage/2",
+      "window": "coverage",
+      "rect": [
+        0.8306,
+        0.3436,
+        0.1647,
+        0.1204
+      ],
+      "axes_margins": [
+        0.0,
+        0.0,
+        0.9711108256686065,
+        0.8432086341624849
+      ],
+      "label": "W8 COVERAGE \u00b7 graph 2"
+    },
+    {
+      "id": "deputy/0",
+      "window": "deputy",
+      "rect": [
+        0.1079,
+        0.1884,
+        0.0582,
+        0.1179
+      ],
+      "axes_margins": [
+        0.047843506952627846,
+        0.5070258659267878,
+        0.9521564930473722,
+        0.4929741340732121
+      ],
+      "label": "W5 DEPUTY \u00b7 graph 0"
+    },
+    {
+      "id": "deputy/1",
+      "window": "deputy",
+      "rect": [
+        0.1079,
+        0.0196,
+        0.0949,
+        0.1539
+      ],
+      "axes_margins": [
+        0.10486412708364433,
+        0.20270294711181266,
+        0.8951358729163557,
+        0.7972970528881873
+      ],
+      "label": "W5 DEPUTY \u00b7 graph 1"
+    },
+    {
+      "id": "deputy/2",
+      "window": "deputy",
+      "rect": [
+        0.1718,
+        0.1886,
+        0.1848,
+        0.1177
+      ],
+      "axes_margins": [
+        0.2965781638816252,
+        0.5241217438885662,
+        0.7034218361183748,
+        0.4758782561114337
+      ],
+      "label": "W5 DEPUTY \u00b7 graph 2"
+    },
+    {
+      "id": "deputy/3",
+      "window": "deputy",
+      "rect": [
+        0.2122,
+        0.0187,
+        0.0691,
+        0.1539
+      ],
+      "axes_margins": [
+        0.4805324554747844,
+        0.15754053227286635,
+        0.5194675445252157,
+        0.8424594677271338
+      ],
+      "label": "W5 DEPUTY \u00b7 graph 3"
+    },
+    {
+      "id": "deputy/4",
+      "window": "deputy",
+      "rect": [
+        0.2868,
+        0.0187,
+        0.0698,
+        0.1541
+      ],
+      "axes_margins": [
+        0.6413543795253913,
+        0.15754053227286635,
+        0.3586456204746087,
+        0.8424594677271338
+      ],
+      "label": "W5 DEPUTY \u00b7 graph 4"
+    },
+    {
+      "id": "deputy/5",
+      "window": "deputy",
+      "rect": [
+        0.364,
+        0.0188,
+        0.0905,
+        0.2842
+      ],
+      "axes_margins": [
+        0.683585046029044,
+        0.07673396409148478,
+        0.3164149539709558,
+        0.9232660359085153
+      ],
+      "label": "W5 DEPUTY \u00b7 graph 5"
+    },
+    {
+      "id": "isl/0",
+      "window": "isl",
+      "rect": [
+        0.463,
+        0.0196,
+        0.1577,
+        0.2835
+      ],
+      "axes_margins": [
+        0.0,
+        0.0595849302191048,
+        1.0,
+        0.9404150697808953
+      ],
+      "label": "W6 ISL \u00b7 graph 0"
+    },
+    {
+      "id": "isl/1",
+      "window": "isl",
+      "rect": [
+        0.6262,
+        0.0187,
+        0.0926,
+        0.2835
+      ],
+      "axes_margins": [
+        0.31602708803611723,
+        0.0595849302191048,
+        0.6839729119638828,
+        0.9404150697808953
+      ],
+      "label": "W6 ISL \u00b7 graph 1"
+    },
+    {
+      "id": "loss/0",
+      "window": "loss",
+      "rect": [
+        0.7291,
+        0.0188,
+        0.158,
+        0.2801
+      ],
+      "axes_margins": [
+        0.0,
+        0.09041567697773013,
+        0.5331381086438703,
+        0.9095843230222699
+      ],
+      "label": "W9 LOSS \u00b7 graph 0"
+    },
+    {
+      "id": "loss/1",
+      "window": "loss",
+      "rect": [
+        0.8926,
+        0.1673,
+        0.1008,
+        0.1349
+      ],
+      "axes_margins": [
+        0.0,
+        0.5468835059914899,
+        0.9543307086614172,
+        0.45311649400851006
+      ],
+      "label": "W9 LOSS \u00b7 graph 1"
+    },
+    {
+      "id": "loss/2",
+      "window": "loss",
+      "rect": [
+        0.893,
+        0.0196,
+        0.1011,
+        0.1321
+      ],
+      "axes_margins": [
+        0.0,
+        0.14405594405594407,
+        0.9543307086614172,
+        0.855944055944056
+      ],
+      "label": "W9 LOSS \u00b7 graph 2"
+    }
+  ],
+  "texts": [
+    {
+      "id": "ops/t1",
+      "window": "ops",
+      "pos": [
+        0.128,
+        0.9951
+      ],
+      "text": "MISSION OPS",
+      "orig": "W1 \u00b7 MISSION OPS",
+      "fontsize": 18.0,
+      "fontsize0": 11.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": true
+    },
+    {
+      "id": "ops/t2",
+      "window": "ops",
+      "pos": [
+        0.06883783783783784,
+        0.8781739831872889
+      ],
+      "text": "CHIEF",
+      "orig": "CHIEF",
+      "fontsize": 6.964610182637199,
+      "fontsize0": 7.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "ops/t3",
+      "window": "ops",
+      "pos": [
+        8.45133458585805,
+        -5.282924949385227
+      ],
+      "text": "APOPHIS  85,756 km",
+      "orig": "APOPHIS  85,756 km",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#cc9966",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t4",
+      "window": "ops",
+      "pos": [
+        0.5955803096522325,
+        -1.0697699799647262
+      ],
+      "text": "D1",
+      "orig": "D1",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t5",
+      "window": "ops",
+      "pos": [
+        -1.5786181144509546,
+        -1.9104119090545089
+      ],
+      "text": "D2",
+      "orig": "D2",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t6",
+      "window": "ops",
+      "pos": [
+        -1.8178410632322535,
+        -0.5931077360483719
+      ],
+      "text": "D3",
+      "orig": "D3",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t7",
+      "window": "ops",
+      "pos": [
+        -0.4086950067394993,
+        -0.2529793914319946
+      ],
+      "text": "D4",
+      "orig": "D4",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t8",
+      "window": "ops",
+      "pos": [
+        1.1210643819065964,
+        -2.768452809488162
+      ],
+      "text": "D5",
+      "orig": "D5",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t9",
+      "window": "ops",
+      "pos": [
+        0.16306635412748155,
+        2.4029617098403278
+      ],
+      "text": "D6",
+      "orig": "D6",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t10",
+      "window": "ops",
+      "pos": [
+        1.178434733593205,
+        -2.691233851712877
+      ],
+      "text": "D7",
+      "orig": "D7",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#888888",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t11",
+      "window": "ops",
+      "pos": [
+        0.14569818227281134,
+        1.709768205872498
+      ],
+      "text": "D8",
+      "orig": "D8",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t12",
+      "window": "ops",
+      "pos": [
+        0.04268177534377442,
+        0.7264096908415694
+      ],
+      "text": "D1",
+      "orig": "D1",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t13",
+      "window": "ops",
+      "pos": [
+        0.03866712296635636,
+        0.728238613965863
+      ],
+      "text": "D2",
+      "orig": "D2",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t14",
+      "window": "ops",
+      "pos": [
+        0.03822539834296834,
+        0.7282547141898253
+      ],
+      "text": "D3",
+      "orig": "D3",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t15",
+      "window": "ops",
+      "pos": [
+        0.04082738328744801,
+        0.7256391206938331
+      ],
+      "text": "D4",
+      "orig": "D4",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t16",
+      "window": "ops",
+      "pos": [
+        0.04365208047167068,
+        0.7298550631381755
+      ],
+      "text": "D5",
+      "orig": "D5",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t17",
+      "window": "ops",
+      "pos": [
+        0.04188313932207361,
+        0.7313019177634963
+      ],
+      "text": "D6",
+      "orig": "D6",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t18",
+      "window": "ops",
+      "pos": [
+        0.0437580146937907,
+        0.7292566534850878
+      ],
+      "text": "D7",
+      "orig": "D7",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#888888",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t19",
+      "window": "ops",
+      "pos": [
+        0.041851069032786875,
+        0.7318858363938225
+      ],
+      "text": "D8",
+      "orig": "D8",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t20",
+      "window": "ops",
+      "pos": [
+        0.10581033117782619,
+        0.7264096908415694
+      ],
+      "text": "D1",
+      "orig": "D1",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t21",
+      "window": "ops",
+      "pos": [
+        0.10493719427436236,
+        0.728238613965863
+      ],
+      "text": "D2",
+      "orig": "D2",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t22",
+      "window": "ops",
+      "pos": [
+        0.10630541877844336,
+        0.7282547141898253
+      ],
+      "text": "D3",
+      "orig": "D3",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t23",
+      "window": "ops",
+      "pos": [
+        0.10665869476828148,
+        0.7256391206938331
+      ],
+      "text": "D4",
+      "orig": "D4",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t24",
+      "window": "ops",
+      "pos": [
+        0.10404598584313272,
+        0.7298550631381755
+      ],
+      "text": "D5",
+      "orig": "D5",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t25",
+      "window": "ops",
+      "pos": [
+        0.10941730114835839,
+        0.7313019177634963
+      ],
+      "text": "D6",
+      "orig": "D6",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t26",
+      "window": "ops",
+      "pos": [
+        0.10412618969610211,
+        0.7292566534850878
+      ],
+      "text": "D7",
+      "orig": "D7",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#888888",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t27",
+      "window": "ops",
+      "pos": [
+        0.10869731228197972,
+        0.7318858363938225
+      ],
+      "text": "D8",
+      "orig": "D8",
+      "fontsize": 6.0,
+      "fontsize0": 6.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t28",
+      "window": "ops",
+      "pos": [
+        0.1351448098449707,
+        0.9386484817027633
+      ],
+      "text": "D1\nSUSP",
+      "orig": "D1\nSUSP",
+      "fontsize": 8.209373054204063,
+      "fontsize0": 7.5,
+      "color": "#000000",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t29",
+      "window": "ops",
+      "pos": [
+        0.15210730252075197,
+        0.9386484817027633
+      ],
+      "text": "D2\nFAUL",
+      "orig": "D2\nFAUL",
+      "fontsize": 8.209373054204063,
+      "fontsize0": 7.5,
+      "color": "#000000",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t30",
+      "window": "ops",
+      "pos": [
+        0.16824715130615234,
+        0.9386484817027633
+      ],
+      "text": "D3\nHEAL",
+      "orig": "D3\nHEAL",
+      "fontsize": 8.209373054204063,
+      "fontsize0": 7.5,
+      "color": "#000000",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t31",
+      "window": "ops",
+      "pos": [
+        0.1845698098449707,
+        0.9386484817027633
+      ],
+      "text": "D4\nSUSP",
+      "orig": "D4\nSUSP",
+      "fontsize": 8.209373054204063,
+      "fontsize0": 7.5,
+      "color": "#000000",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t32",
+      "window": "ops",
+      "pos": [
+        0.1351448098449707,
+        0.8953525533980583
+      ],
+      "text": "D5\nSUSP",
+      "orig": "D5\nSUSP",
+      "fontsize": 8.209373054204063,
+      "fontsize0": 7.5,
+      "color": "#000000",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t33",
+      "window": "ops",
+      "pos": [
+        0.15177215130615235,
+        0.8953525533980583
+      ],
+      "text": "D6\nHEAL",
+      "orig": "D6\nHEAL",
+      "fontsize": 8.209373054204063,
+      "fontsize0": 7.5,
+      "color": "#000000",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t34",
+      "window": "ops",
+      "pos": [
+        0.16779012692260742,
+        0.8953525533980583
+      ],
+      "text": "D7\nDEAD",
+      "orig": "D7\nDEAD",
+      "fontsize": 8.209373054204063,
+      "fontsize0": 7.5,
+      "color": "#000000",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t35",
+      "window": "ops",
+      "pos": [
+        0.18472215130615235,
+        0.8953525533980583
+      ],
+      "text": "D8\nHEAL",
+      "orig": "D8\nHEAL",
+      "fontsize": 8.209373054204063,
+      "fontsize0": 7.5,
+      "color": "#000000",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t36",
+      "window": "ops",
+      "pos": [
+        0.13978764858201403,
+        0.735384694076655
+      ],
+      "text": "f372  D6 NAV fault -> NAV isolated -> REINIT -> RECOVERED; D8 re-images; reopt 587ms / gnd 429ms",
+      "orig": "f372  D6 NAV fault -> NAV isolated -> REINIT -> RECOVERED; D8 re-images; reopt 599ms / gnd 431ms",
+      "fontsize": 6.339028241298322,
+      "fontsize0": 7.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t37",
+      "window": "ops",
+      "pos": [
+        0.13978764858201403,
+        0.7239430996515679
+      ],
+      "text": "f438  D6 NAV fault -> NAV isolated -> REINIT -> RECOVERED; D8 re-images; reopt 587ms / gnd 433ms",
+      "orig": "f438  D6 NAV fault -> NAV isolated -> REINIT -> RECOVERED; D8 re-images; reopt 609ms / gnd 432ms",
+      "fontsize": 6.339028241298322,
+      "fontsize0": 7.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t38",
+      "window": "ops",
+      "pos": [
+        0.13978764858201403,
+        0.7125015052264808
+      ],
+      "text": "f500  D1 FORM fault -> FORM isolated -> MODE_SWITCH -> RECOVERED; D4 re-images; reopt 590ms / gnd 426ms",
+      "orig": "f500  D1 FORM fault -> FORM isolated -> MODE_SWITCH -> RECOVERED; D4 re-images; reopt 602ms / gnd 425ms",
+      "fontsize": 6.339028241298322,
+      "fontsize0": 7.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t39",
+      "window": "ops",
+      "pos": [
+        0.13978764858201403,
+        0.7010599108013938
+      ],
+      "text": "f526  D4 PEER fault -> PEER isolated -> SAFE_HOLD; D1 re-images; reopt 585ms / gnd 422ms",
+      "orig": "f526  D4 PEER fault -> PEER isolated -> SAFE_HOLD; D1 re-images; reopt 594ms / gnd 432ms",
+      "fontsize": 6.339028241298322,
+      "fontsize0": 7.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t40",
+      "window": "ops",
+      "pos": [
+        0.13978764858201403,
+        0.6896183163763066
+      ],
+      "text": "f552  D1 FORM fault -> FORM isolated -> MODE_SWITCH -> RECOVERED; D5 re-images; reopt 587ms / gnd 423ms",
+      "orig": "f552  D1 FORM fault -> FORM isolated -> MODE_SWITCH -> RECOVERED; D5 re-images; reopt 586ms / gnd 427ms",
+      "fontsize": 6.339028241298322,
+      "fontsize0": 7.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t41",
+      "window": "ops",
+      "pos": [
+        0.13978764858201403,
+        0.6781767219512195
+      ],
+      "text": "f561  D4 safe-hold cleared -> RESTORED",
+      "orig": "f561  D4 safe-hold cleared -> RESTORED",
+      "fontsize": 6.339028241298322,
+      "fontsize0": 7.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "ops/t42",
+      "window": "ops",
+      "pos": [
+        0.13978764858201403,
+        0.6667351275261325
+      ],
+      "text": "f589  D2 ATT fault -> ATT isolated -> SAFE_HOLD; D3 re-images; reopt 587ms / gnd 414ms",
+      "orig": "f589  D2 ATT fault -> ATT isolated -> SAFE_HOLD; D3 re-images; reopt 589ms / gnd 432ms",
+      "fontsize": 6.339028241298322,
+      "fontsize0": 7.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "architecture/t1",
+      "window": "architecture",
+      "pos": [
+        0.4417,
+        0.993
+      ],
+      "text": "AUTONOMY BRAIN",
+      "orig": "W4 \u00b7 AUTONOMY BRAIN",
+      "fontsize": 18.0,
+      "fontsize0": 11.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": true
+    },
+    {
+      "id": "architecture/t2",
+      "window": "architecture",
+      "pos": [
+        0.3344150694096542,
+        0.9410815089820361
+      ],
+      "text": "SENSE",
+      "orig": "SENSE",
+      "fontsize": 7.305725739580142,
+      "fontsize0": 9.5,
+      "color": "#21e0ff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t3",
+      "window": "architecture",
+      "pos": [
+        0.3813511263572168,
+        0.9410815089820361
+      ],
+      "text": "INTEGRATE",
+      "orig": "INTEGRATE",
+      "fontsize": 7.305725739580142,
+      "fontsize0": 9.5,
+      "color": "#21e0ff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t4",
+      "window": "architecture",
+      "pos": [
+        0.4135775817348835,
+        0.9410815089820361
+      ],
+      "text": "DECISION CORE",
+      "orig": "DECISION CORE",
+      "fontsize": 7.305725739580142,
+      "fontsize0": 9.5,
+      "color": "#21e0ff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t5",
+      "window": "architecture",
+      "pos": [
+        0.45992438714736783,
+        0.9410815089820361
+      ],
+      "text": "BELIEVE",
+      "orig": "BELIEVE",
+      "fontsize": 7.305725739580142,
+      "fontsize0": 9.5,
+      "color": "#21e0ff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t6",
+      "window": "architecture",
+      "pos": [
+        0.49978487844025266,
+        0.9410815089820361
+      ],
+      "text": "DECIDE",
+      "orig": "DECIDE",
+      "fontsize": 7.305725739580142,
+      "fontsize0": 9.5,
+      "color": "#21e0ff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t7",
+      "window": "architecture",
+      "pos": [
+        0.5321127021515687,
+        0.9410815089820361
+      ],
+      "text": "COMMIT",
+      "orig": "COMMIT",
+      "fontsize": 7.305725739580142,
+      "fontsize0": 9.5,
+      "color": "#21e0ff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t8",
+      "window": "architecture",
+      "pos": [
+        0.24842108401741592,
+        0.6782983735191638
+      ],
+      "text": "NAV",
+      "orig": "NAV",
+      "fontsize": 6.255619974965449,
+      "fontsize0": 7.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t9",
+      "window": "architecture",
+      "pos": [
+        0.24919994612419824,
+        0.7015945429965156
+      ],
+      "text": "ATT",
+      "orig": "ATT",
+      "fontsize": 6.255619974965449,
+      "fontsize0": 7.5,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t10",
+      "window": "architecture",
+      "pos": [
+        0.2452646428478244,
+        0.7248907124738676
+      ],
+      "text": "COMM",
+      "orig": "COMM",
+      "fontsize": 6.255619974965449,
+      "fontsize0": 7.5,
+      "color": "#ff5db1",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t11",
+      "window": "architecture",
+      "pos": [
+        0.24665839609154014,
+        0.7481868819512195
+      ],
+      "text": "PROP",
+      "orig": "PROP",
+      "fontsize": 6.255619974965449,
+      "fontsize0": 7.5,
+      "color": "#ff7a33",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t12",
+      "window": "architecture",
+      "pos": [
+        0.28997687201807115,
+        0.781350296796351
+      ],
+      "text": "FORM",
+      "orig": "FORM",
+      "fontsize": 6.422384823954879,
+      "fontsize0": 7.5,
+      "color": "#9b6bff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t13",
+      "window": "architecture",
+      "pos": [
+        0.29126832977534806,
+        0.8008354232358467
+      ],
+      "text": "PEER",
+      "orig": "PEER",
+      "fontsize": 6.422384823954879,
+      "fontsize0": 7.5,
+      "color": "#00e0c6",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t14",
+      "window": "architecture",
+      "pos": [
+        0.28031676799364014,
+        0.8203205496753422
+      ],
+      "text": "CONSENSUS",
+      "orig": "CONSENSUS",
+      "fontsize": 5.994225835691221,
+      "fontsize0": 7.0,
+      "color": "#00e0c6",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t15",
+      "window": "architecture",
+      "pos": [
+        0.28925365567399614,
+        0.8398056761148378
+      ],
+      "text": "VISION",
+      "orig": "VISION",
+      "fontsize": 5.994225835691221,
+      "fontsize0": 7.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t16",
+      "window": "architecture",
+      "pos": [
+        0.3117114274793928,
+        0.8801639382563311
+      ],
+      "text": "ISL-LOG",
+      "orig": "ISL-LOG",
+      "fontsize": 7.113286618696606,
+      "fontsize0": 7.0,
+      "color": "#ff5db1",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t17",
+      "window": "architecture",
+      "pos": [
+        0.30772101447910893,
+        0.9011220428764741
+      ],
+      "text": "CBF-SAFE",
+      "orig": "CBF-SAFE",
+      "fontsize": 7.113286618696606,
+      "fontsize0": 7.0,
+      "color": "#9b6bff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t18",
+      "window": "architecture",
+      "pos": [
+        0.3276125056771524,
+        0.9229684522533882
+      ],
+      "text": "VALUE",
+      "orig": "VALUE",
+      "fontsize": 5.3831663344274725,
+      "fontsize0": 7.0,
+      "color": "#ffd24a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t19",
+      "window": "architecture",
+      "pos": [
+        0.3038471005214353,
+        0.7095090882229965
+      ],
+      "text": "DETECT",
+      "orig": "DETECT",
+      "fontsize": 5.838578643301087,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t20",
+      "window": "architecture",
+      "pos": [
+        0.30366263318035525,
+        0.7488607258536586
+      ],
+      "text": "ISOLATE",
+      "orig": "ISOLATE",
+      "fontsize": 5.838578643301087,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t21",
+      "window": "architecture",
+      "pos": [
+        0.38915166098470905,
+        0.821825581720769
+      ],
+      "text": "FUSE",
+      "orig": "FUSE",
+      "fontsize": 5.3831663344274725,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t22",
+      "window": "architecture",
+      "pos": [
+        0.3875830752172242,
+        0.8541718786006935
+      ],
+      "text": "SAFETY",
+      "orig": "SAFETY",
+      "fontsize": 5.3831663344274725,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t23",
+      "window": "architecture",
+      "pos": [
+        0.3883673681009666,
+        0.8865181754806178
+      ],
+      "text": "VALUE",
+      "orig": "VALUE",
+      "fontsize": 5.3831663344274725,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t24",
+      "window": "architecture",
+      "pos": [
+        0.4237521921185692,
+        0.8288868131106211
+      ],
+      "text": "EXEC",
+      "orig": "EXEC",
+      "fontsize": 7.690237620610677,
+      "fontsize0": 10.0,
+      "color": "#000000",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t25",
+      "window": "architecture",
+      "pos": [
+        0.40399649029024626,
+        0.8070756703435236
+      ],
+      "text": "robust fusion \u00b7 deadline value \u00b7 RTA",
+      "orig": "robust fusion \u00b7 deadline value \u00b7 RTA",
+      "fontsize": 5.767678215458007,
+      "fontsize0": 7.5,
+      "color": "#21e0ff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t26",
+      "window": "architecture",
+      "pos": [
+        0.4727335948017466,
+        0.7418291897258116
+      ],
+      "text": "NONE",
+      "orig": "NONE",
+      "fontsize": 5.3831663344274725,
+      "fontsize0": 7.0,
+      "color": "#39507a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t27",
+      "window": "architecture",
+      "pos": [
+        0.4727335948017466,
+        0.7702939309801451
+      ],
+      "text": "NAV",
+      "orig": "NAV",
+      "fontsize": 5.3831663344274725,
+      "fontsize0": 7.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t28",
+      "window": "architecture",
+      "pos": [
+        0.4727335948017466,
+        0.7987586722344785
+      ],
+      "text": "ATT",
+      "orig": "ATT",
+      "fontsize": 5.3831663344274725,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t29",
+      "window": "architecture",
+      "pos": [
+        0.4727335948017466,
+        0.827223413488812
+      ],
+      "text": "COMM",
+      "orig": "COMM",
+      "fontsize": 5.3831663344274725,
+      "fontsize0": 7.0,
+      "color": "#ff5db1",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t30",
+      "window": "architecture",
+      "pos": [
+        0.4727335948017466,
+        0.8556881547431454
+      ],
+      "text": "PROP",
+      "orig": "PROP",
+      "fontsize": 5.3831663344274725,
+      "fontsize0": 7.0,
+      "color": "#ff7a33",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t31",
+      "window": "architecture",
+      "pos": [
+        0.4727335948017466,
+        0.8841528959974789
+      ],
+      "text": "FORM",
+      "orig": "FORM",
+      "fontsize": 5.3831663344274725,
+      "fontsize0": 7.0,
+      "color": "#9b6bff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t32",
+      "window": "architecture",
+      "pos": [
+        0.4727335948017466,
+        0.9126176372518123
+      ],
+      "text": "PEER",
+      "orig": "PEER",
+      "fontsize": 5.3831663344274725,
+      "fontsize0": 7.0,
+      "color": "#00e0c6",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t33",
+      "window": "architecture",
+      "pos": [
+        0.5112453345933022,
+        0.7366537822250236
+      ],
+      "text": "REINIT",
+      "orig": "REINIT",
+      "fontsize": 5.22936158201526,
+      "fontsize0": 6.8,
+      "color": "#9999b2",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t34",
+      "window": "architecture",
+      "pos": [
+        0.5112453345933022,
+        0.7625308197289631
+      ],
+      "text": "RELOAD",
+      "orig": "RELOAD",
+      "fontsize": 5.22936158201526,
+      "fontsize0": 6.8,
+      "color": "#9999b2",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t35",
+      "window": "architecture",
+      "pos": [
+        0.5112453345933022,
+        0.7884078572329027
+      ],
+      "text": "MODE_SWITCH",
+      "orig": "MODE_SWITCH",
+      "fontsize": 5.22936158201526,
+      "fontsize0": 6.8,
+      "color": "#9999b2",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t36",
+      "window": "architecture",
+      "pos": [
+        0.5112453345933022,
+        0.8143368623887096
+      ],
+      "text": "SAFE_HOLD",
+      "orig": "SAFE_HOLD",
+      "fontsize": 5.22936158201526,
+      "fontsize0": 6.8,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t37",
+      "window": "architecture",
+      "pos": [
+        0.5112453345933022,
+        0.8401619322407818
+      ],
+      "text": "DISPOSE",
+      "orig": "DISPOSE",
+      "fontsize": 5.22936158201526,
+      "fontsize0": 6.8,
+      "color": "#9999b2",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t38",
+      "window": "architecture",
+      "pos": [
+        0.5112453345933022,
+        0.8660389697447213
+      ],
+      "text": "RE-OPTIMIZE",
+      "orig": "RE-OPTIMIZE",
+      "fontsize": 5.22936158201526,
+      "fontsize0": 6.8,
+      "color": "#9999b2",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t39",
+      "window": "architecture",
+      "pos": [
+        0.5112453345933022,
+        0.8919160072486607
+      ],
+      "text": "RE-IMAGE",
+      "orig": "RE-IMAGE",
+      "fontsize": 5.22936158201526,
+      "fontsize0": 6.8,
+      "color": "#9999b2",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t40",
+      "window": "architecture",
+      "pos": [
+        0.5112453345933022,
+        0.9177930447526002
+      ],
+      "text": "RELAY",
+      "orig": "RELAY",
+      "fontsize": 5.22936158201526,
+      "fontsize0": 6.8,
+      "color": "#9999b2",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t41",
+      "window": "architecture",
+      "pos": [
+        0.536436911564635,
+        0.827223413488812
+      ],
+      "text": "CMD",
+      "orig": "CMD",
+      "fontsize": 6.152190096488542,
+      "fontsize0": 8.0,
+      "color": "#000000",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t42",
+      "window": "architecture",
+      "pos": [
+        0.32648067821238635,
+        0.9730000000000001
+      ],
+      "text": "REASONING ABOUT  D5",
+      "orig": "REASONING ABOUT  D5",
+      "fontsize": 9.228285144732812,
+      "fontsize0": 12.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "architecture/t43",
+      "window": "architecture",
+      "pos": [
+        0.2450310789184951,
+        0.6585093658536585
+      ],
+      "text": "FLEET BELIEFS:",
+      "orig": "FLEET BELIEFS:",
+      "fontsize": 7.089702638294177,
+      "fontsize0": 8.5,
+      "color": "#21e0ff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t44",
+      "window": "architecture",
+      "pos": [
+        0.2648489323236325,
+        0.6541904178397212
+      ],
+      "text": "D1\nPROP",
+      "orig": "D1\nPROP",
+      "fontsize": 5.171312512638104,
+      "fontsize0": 6.2,
+      "color": "#ff7a33",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "architecture/t45",
+      "window": "architecture",
+      "pos": [
+        0.2773589973539665,
+        0.6541904178397212
+      ],
+      "text": "D2\nATT",
+      "orig": "D2\nATT",
+      "fontsize": 5.171312512638104,
+      "fontsize0": 6.2,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "architecture/t46",
+      "window": "architecture",
+      "pos": [
+        0.2876554542913402,
+        0.6541904178397212
+      ],
+      "text": "D3\nNONE",
+      "orig": "D3\nNONE",
+      "fontsize": 5.171312512638104,
+      "fontsize0": 6.2,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "architecture/t47",
+      "window": "architecture",
+      "pos": [
+        0.29959162092720304,
+        0.6541904178397212
+      ],
+      "text": "D4\nPEER",
+      "orig": "D4\nPEER",
+      "fontsize": 5.171312512638104,
+      "fontsize0": 6.2,
+      "color": "#00e0c6",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "architecture/t48",
+      "window": "architecture",
+      "pos": [
+        0.3119377149876882,
+        0.6541904178397212
+      ],
+      "text": "D5\nATT",
+      "orig": "D5\nATT",
+      "fontsize": 5.171312512638104,
+      "fontsize0": 6.2,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "architecture/t49",
+      "window": "architecture",
+      "pos": [
+        0.4063232048581162,
+        0.7116620941695557
+      ],
+      "text": "D6\nNONE",
+      "orig": "D6\nNONE",
+      "fontsize": 4.76794732477862,
+      "fontsize0": 6.2,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "architecture/t50",
+      "window": "architecture",
+      "pos": [
+        0.41790435159033196,
+        0.7116620941695557
+      ],
+      "text": "D7\nCOMM",
+      "orig": "D7\nCOMM",
+      "fontsize": 4.76794732477862,
+      "fontsize0": 6.2,
+      "color": "#ff5db1",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "architecture/t51",
+      "window": "architecture",
+      "pos": [
+        0.4301638056814601,
+        0.7116620941695557
+      ],
+      "text": "D8\nNONE",
+      "orig": "D8\nNONE",
+      "fontsize": 4.76794732477862,
+      "fontsize0": 6.2,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "architecture/t52",
+      "window": "architecture",
+      "pos": [
+        0.43949429557689196,
+        0.7203875947053263
+      ],
+      "text": "CHAIN OF THOUGHT",
+      "orig": "CHAIN OF THOUGHT",
+      "fontsize": 6.152190096488542,
+      "fontsize0": 8.0,
+      "color": "#21e0ff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "architecture/t53",
+      "window": "architecture",
+      "pos": [
+        0.43949429557689196,
+        0.7121069427040655
+      ],
+      "text": "D5: ATT evidence 9657\u00d7 threshold  \u00b7  isolate = ATT  \u00b7  consensus+vision agree (1.00), self-report consistent  \u2192  SAFE_",
+      "orig": "D5: ATT evidence 9657\u00d7 threshold  \u00b7  isolate = ATT  \u00b7  consensus+vision agree (1.00), self-report consistent  \u2192  SAFE_",
+      "fontsize": 5.998385344076328,
+      "fontsize0": 7.8,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t1",
+      "window": "scope",
+      "pos": [
+        0.8062,
+        0.9921
+      ],
+      "text": "FDI SCOPE",
+      "orig": "W2 \u00b7 FDI SCOPE",
+      "fontsize": 18.0,
+      "fontsize0": 11.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": true
+    },
+    {
+      "id": "scope/t2",
+      "window": "scope",
+      "pos": [
+        0.6841489647853604,
+        0.9633033890987589
+      ],
+      "text": "NAV",
+      "orig": "NAV",
+      "fontsize": 9.17432477114945,
+      "fontsize0": 10.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t3",
+      "window": "scope",
+      "pos": [
+        0.6855869928915457,
+        0.9701707501349165
+      ],
+      "text": "h=12",
+      "orig": "h=12",
+      "fontsize": 5.963311101247142,
+      "fontsize0": 6.5,
+      "color": "#999999",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t4",
+      "window": "scope",
+      "pos": [
+        0.7304720968848816,
+        0.9633033890987589
+      ],
+      "text": "ATT",
+      "orig": "ATT",
+      "fontsize": 9.17432477114945,
+      "fontsize0": 10.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t5",
+      "window": "scope",
+      "pos": [
+        0.732491455502078,
+        0.9701707501349165
+      ],
+      "text": "h=8",
+      "orig": "h=8",
+      "fontsize": 5.963311101247142,
+      "fontsize0": 6.5,
+      "color": "#999999",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t6",
+      "window": "scope",
+      "pos": [
+        0.7723281629524228,
+        0.9633033890987589
+      ],
+      "text": "COMM",
+      "orig": "COMM",
+      "fontsize": 9.17432477114945,
+      "fontsize0": 10.0,
+      "color": "#ff5db1",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t7",
+      "window": "scope",
+      "pos": [
+        0.7771317887539354,
+        0.9701707501349165
+      ],
+      "text": "h=10",
+      "orig": "h=10",
+      "fontsize": 5.963311101247142,
+      "fontsize0": 6.5,
+      "color": "#999999",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t8",
+      "window": "scope",
+      "pos": [
+        0.8194162036190639,
+        0.9633033890987589
+      ],
+      "text": "PROP",
+      "orig": "PROP",
+      "fontsize": 9.17432477114945,
+      "fontsize0": 10.0,
+      "color": "#ff7a33",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t9",
+      "window": "scope",
+      "pos": [
+        0.8240362513644677,
+        0.9701707501349165
+      ],
+      "text": "h=3",
+      "orig": "h=3",
+      "fontsize": 5.963311101247142,
+      "fontsize0": 6.5,
+      "color": "#999999",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t10",
+      "window": "scope",
+      "pos": [
+        0.8646378673819325,
+        0.9633033890987589
+      ],
+      "text": "FORM",
+      "orig": "FORM",
+      "fontsize": 9.17432477114945,
+      "fontsize0": 10.0,
+      "color": "#9b6bff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t11",
+      "window": "scope",
+      "pos": [
+        0.8686765846163252,
+        0.9701707501349165
+      ],
+      "text": "h=25",
+      "orig": "h=25",
+      "fontsize": 5.963311101247142,
+      "fontsize0": 6.5,
+      "color": "#999999",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t12",
+      "window": "scope",
+      "pos": [
+        0.91151173364978,
+        0.9633033890987589
+      ],
+      "text": "PEER",
+      "orig": "PEER",
+      "fontsize": 9.17432477114945,
+      "fontsize0": 10.0,
+      "color": "#00e0c6",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t13",
+      "window": "scope",
+      "pos": [
+        0.9155810472268575,
+        0.9701707501349165
+      ],
+      "text": "h=8",
+      "orig": "h=8",
+      "fontsize": 5.963311101247142,
+      "fontsize0": 6.5,
+      "color": "#999999",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t14",
+      "window": "scope",
+      "pos": [
+        0.8230265720558695,
+        0.9437429843497034
+      ],
+      "text": "TRIP",
+      "orig": "TRIP",
+      "fontsize": 6.2385408443816255,
+      "fontsize0": 6.8,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t15",
+      "window": "scope",
+      "pos": [
+        0.8687989699870644,
+        0.9437429843497034
+      ],
+      "text": "TRIP",
+      "orig": "TRIP",
+      "fontsize": 6.2385408443816255,
+      "fontsize0": 6.8,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t16",
+      "window": "scope",
+      "pos": [
+        0.9145713679182594,
+        0.9437429843497034
+      ],
+      "text": "TRIP",
+      "orig": "TRIP",
+      "fontsize": 6.2385408443816255,
+      "fontsize0": 6.8,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t17",
+      "window": "scope",
+      "pos": [
+        0.6587611926853696,
+        0.9437429843497034
+      ],
+      "text": "D1",
+      "orig": "D1",
+      "fontsize": 7.33945981691956,
+      "fontsize0": 8.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t18",
+      "window": "scope",
+      "pos": [
+        0.7314817761934798,
+        0.9163078341428316
+      ],
+      "text": "TRIP",
+      "orig": "TRIP",
+      "fontsize": 6.2385408443816255,
+      "fontsize0": 6.8,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t19",
+      "window": "scope",
+      "pos": [
+        0.6587611926853696,
+        0.9163078341428316
+      ],
+      "text": "D2",
+      "orig": "D2",
+      "fontsize": 7.33945981691956,
+      "fontsize0": 8.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t20",
+      "window": "scope",
+      "pos": [
+        0.6587611926853696,
+        0.8888726839359599
+      ],
+      "text": "D3",
+      "orig": "D3",
+      "fontsize": 7.33945981691956,
+      "fontsize0": 8.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t21",
+      "window": "scope",
+      "pos": [
+        0.9145713679182594,
+        0.861437533729088
+      ],
+      "text": "TRIP",
+      "orig": "TRIP",
+      "fontsize": 6.2385408443816255,
+      "fontsize0": 6.8,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t22",
+      "window": "scope",
+      "pos": [
+        0.6587611926853696,
+        0.861437533729088
+      ],
+      "text": "D4",
+      "orig": "D4",
+      "fontsize": 7.33945981691956,
+      "fontsize0": 8.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t23",
+      "window": "scope",
+      "pos": [
+        0.7314817761934798,
+        0.8340023835222162
+      ],
+      "text": "TRIP",
+      "orig": "TRIP",
+      "fontsize": 6.2385408443816255,
+      "fontsize0": 6.8,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t24",
+      "window": "scope",
+      "pos": [
+        0.6587611926853696,
+        0.8340023835222162
+      ],
+      "text": "D5",
+      "orig": "D5",
+      "fontsize": 7.33945981691956,
+      "fontsize0": 8.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t25",
+      "window": "scope",
+      "pos": [
+        0.6587611926853696,
+        0.8065672333153444
+      ],
+      "text": "D6",
+      "orig": "D6",
+      "fontsize": 7.33945981691956,
+      "fontsize0": 8.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t26",
+      "window": "scope",
+      "pos": [
+        0.7772541741246746,
+        0.7791320831084728
+      ],
+      "text": "TRIP",
+      "orig": "TRIP",
+      "fontsize": 6.2385408443816255,
+      "fontsize0": 6.8,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t27",
+      "window": "scope",
+      "pos": [
+        0.6587611926853696,
+        0.7791320831084728
+      ],
+      "text": "D7",
+      "orig": "D7",
+      "fontsize": 7.33945981691956,
+      "fontsize0": 8.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t28",
+      "window": "scope",
+      "pos": [
+        0.6587,
+        0.7516969329016011
+      ],
+      "text": "D8",
+      "orig": "D8",
+      "fontsize": 7.33945981691956,
+      "fontsize0": 8.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t29",
+      "window": "scope",
+      "pos": [
+        0.7667605710453911,
+        0.973
+      ],
+      "text": "bar = S / h  (fills to the dashed TRIP line at threshold)   \u00b7   frame 600  \u00b7  t-to-CA 2.72 h",
+      "orig": "bar = S / h  (fills to the dashed TRIP line at threshold)   \u00b7   frame 600  \u00b7  t-to-CA 2.72 h",
+      "fontsize": 6.880743578362088,
+      "fontsize0": 7.5,
+      "color": "#9e9e9e",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t30",
+      "window": "scope",
+      "pos": [
+        0.9611863630022321,
+        0.9721784375
+      ],
+      "text": "STATE",
+      "orig": "STATE",
+      "fontsize": 9.74036719709712,
+      "fontsize0": 9.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t31",
+      "window": "scope",
+      "pos": [
+        0.961244,
+        0.9490859960937501
+      ],
+      "text": "HEALTHY",
+      "orig": "HEALTHY",
+      "fontsize": 8.116972664247598,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t32",
+      "window": "scope",
+      "pos": [
+        0.961244,
+        0.9311609960937499
+      ],
+      "text": "SUSPECT",
+      "orig": "SUSPECT",
+      "fontsize": 8.116972664247598,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t33",
+      "window": "scope",
+      "pos": [
+        0.961244,
+        0.9132359960937501
+      ],
+      "text": "FAULTED",
+      "orig": "FAULTED",
+      "fontsize": 8.116972664247598,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t34",
+      "window": "scope",
+      "pos": [
+        0.961244,
+        0.89531099609375
+      ],
+      "text": "DEAD",
+      "orig": "DEAD",
+      "fontsize": 8.116972664247598,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t35",
+      "window": "scope",
+      "pos": [
+        0.9613818673270089,
+        0.8598484375
+      ],
+      "text": "FLEET",
+      "orig": "FLEET",
+      "fontsize": 9.74036719709712,
+      "fontsize0": 9.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t36",
+      "window": "scope",
+      "pos": [
+        0.952364,
+        0.8399348828125
+      ],
+      "text": "healthy  3",
+      "orig": "healthy  3",
+      "fontsize": 8.658104175197439,
+      "fontsize0": 8.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t37",
+      "window": "scope",
+      "pos": [
+        0.952364,
+        0.8255948828125
+      ],
+      "text": "faulted  4",
+      "orig": "faulted  4",
+      "fontsize": 8.658104175197439,
+      "fontsize0": 8.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t38",
+      "window": "scope",
+      "pos": [
+        0.952364,
+        0.8112548828125
+      ],
+      "text": "dead     1",
+      "orig": "dead     1",
+      "fontsize": 8.658104175197439,
+      "fontsize0": 8.0,
+      "color": "#999999",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t39",
+      "window": "scope",
+      "pos": [
+        0.952364,
+        0.7873548828125
+      ],
+      "text": "channels",
+      "orig": "channels",
+      "fontsize": 8.658104175197439,
+      "fontsize0": 8.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t40",
+      "window": "scope",
+      "pos": [
+        0.952364,
+        0.7730148828124999
+      ],
+      "text": "tripped  7",
+      "orig": "tripped  7",
+      "fontsize": 8.658104175197439,
+      "fontsize0": 8.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t41",
+      "window": "scope",
+      "pos": [
+        0.6628,
+        0.6959
+      ],
+      "text": "INJECTED \u2192 ISOLATED:",
+      "orig": "INJECTED \u2192 ISOLATED:",
+      "fontsize": 12.028896531503124,
+      "fontsize0": 8.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "scope/t42",
+      "window": "scope",
+      "pos": [
+        0.7430000000000001,
+        0.7094
+      ],
+      "text": "D1 FORM S/h=11.9 [DETECTED]",
+      "orig": "D1 FORM S/h=11.9 [DETECTED]",
+      "fontsize": 11.321314382591176,
+      "fontsize0": 8.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t43",
+      "window": "scope",
+      "pos": [
+        0.7436,
+        0.6914
+      ],
+      "text": "D2 ATT S/h=17287.2 [DETECTED]",
+      "orig": "D2 ATT S/h=17287.2 [DETECTED]",
+      "fontsize": 11.321314382591176,
+      "fontsize0": 8.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t44",
+      "window": "scope",
+      "pos": [
+        0.8354,
+        0.711
+      ],
+      "text": "D4 PEER S/h=16.6 [DETECTED]",
+      "orig": "D4 PEER S/h=16.6 [DETECTED]",
+      "fontsize": 11.321314382591176,
+      "fontsize0": 8.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "scope/t45",
+      "window": "scope",
+      "pos": [
+        0.8363,
+        0.6944
+      ],
+      "text": "D5 ATT S/h=9657.5 [DETECTED]",
+      "orig": "D5 ATT S/h=9657.5 [DETECTED]",
+      "fontsize": 11.321314382591176,
+      "fontsize0": 8.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t1",
+      "window": "innovations",
+      "pos": [
+        0.1267,
+        0.6397
+      ],
+      "text": "INNOVATION MONITOR",
+      "orig": "W7 \u00b7 INNOVATION MONITOR",
+      "fontsize": 18.0,
+      "fontsize0": 11.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": true
+    },
+    {
+      "id": "innovations/t2",
+      "window": "innovations",
+      "pos": [
+        0.07770000000000003,
+        0.33599999999999997
+      ],
+      "text": "\u25a0SEPARATION  \u25a0COAST  \u25a0APPROACH  \u25a0ENCOUNTER",
+      "orig": "\u25a0SEPARATION  \u25a0COAST  \u25a0APPROACH  \u25a0ENCOUNTER",
+      "fontsize": 9.810906954570253,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "innovations/t3",
+      "window": "innovations",
+      "pos": [
+        0.28950000000000004,
+        0.33899999999999997
+      ],
+      "text": "\u2502 = TCM burn",
+      "orig": "\u2502 = TCM burn",
+      "fontsize": 11.871197415030007,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "innovations/t4",
+      "window": "innovations",
+      "pos": [
+        0.0158,
+        0.3279
+      ],
+      "text": "TRUTH  vs  ESTIMATE",
+      "orig": "TRUTH  vs  ESTIMATE",
+      "fontsize": 10.492179385660032,
+      "fontsize0": 10.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "innovations/t5",
+      "window": "innovations",
+      "pos": [
+        0.0191,
+        0.2961
+      ],
+      "text": ".",
+      "orig": "(FDI sees only the estimate)",
+      "fontsize": 0.1,
+      "fontsize0": 7.5,
+      "color": "#999999",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "innovations/t6",
+      "window": "innovations",
+      "pos": [
+        0.010207920792079161,
+        0.27998619281045733
+      ],
+      "text": "NAV est error",
+      "orig": "NAV est error",
+      "fontsize": 8.5,
+      "fontsize0": 8.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "innovations/t7",
+      "window": "innovations",
+      "pos": [
+        0.07050860051825497,
+        0.2808542483660129
+      ],
+      "text": "2.0 m",
+      "orig": "2.0 m",
+      "fontsize": 9.0,
+      "fontsize0": 9.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t8",
+      "window": "innovations",
+      "pos": [
+        0.010207920792079161,
+        0.26859730392156855
+      ],
+      "text": "NAV true drift",
+      "orig": "NAV true drift",
+      "fontsize": 8.5,
+      "fontsize0": 8.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "innovations/t9",
+      "window": "innovations",
+      "pos": [
+        0.06385576848700497,
+        0.26946535947712413
+      ],
+      "text": "0.00 km",
+      "orig": "0.00 km",
+      "fontsize": 9.0,
+      "fontsize0": 9.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t10",
+      "window": "innovations",
+      "pos": [
+        0.010207920792079161,
+        0.25720841503267966
+      ],
+      "text": "ATT est error",
+      "orig": "ATT est error",
+      "fontsize": 8.5,
+      "fontsize0": 8.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "innovations/t11",
+      "window": "innovations",
+      "pos": [
+        0.07148516301825497,
+        0.25807647058823524
+      ],
+      "text": "0.05\u00b0",
+      "orig": "0.05\u00b0",
+      "fontsize": 9.0,
+      "fontsize0": 9.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t12",
+      "window": "innovations",
+      "pos": [
+        0.010207920792079161,
+        0.24581952614379077
+      ],
+      "text": "ATT true error",
+      "orig": "ATT true error",
+      "fontsize": 8.5,
+      "fontsize0": 8.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "innovations/t13",
+      "window": "innovations",
+      "pos": [
+        0.07142412786200497,
+        0.24668758169934635
+      ],
+      "text": "88.2\u00b0",
+      "orig": "88.2\u00b0",
+      "fontsize": 9.0,
+      "fontsize0": 9.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t14",
+      "window": "innovations",
+      "pos": [
+        0.019575789952042066,
+        0.2217018790849673
+      ],
+      "text": "fault drove the TRUTH off;",
+      "orig": "fault drove the TRUTH off;",
+      "fontsize": 8.0,
+      "fontsize0": 8.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "innovations/t15",
+      "window": "innovations",
+      "pos": [
+        0.014998153233292066,
+        0.2109829248366013
+      ],
+      "text": "estimator + FDI caught it",
+      "orig": "estimator + FDI caught it",
+      "fontsize": 8.5,
+      "fontsize0": 8.5,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "innovations/t16",
+      "window": "innovations",
+      "pos": [
+        0.0219,
+        0.1446
+      ],
+      "text": ".",
+      "orig": "from the innovation alone",
+      "fontsize": 0.1,
+      "fontsize0": 8.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "innovations/t17",
+      "window": "innovations",
+      "pos": [
+        0.0235,
+        0.1523
+      ],
+      "text": "FLEET |peak \u03c3|   NAV / ATT",
+      "orig": "FLEET |peak \u03c3|   NAV / ATT",
+      "fontsize": 9.184127400432807,
+      "fontsize0": 8.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "innovations/t18",
+      "window": "innovations",
+      "pos": [
+        0.006673999999999953,
+        0.14364270227008152
+      ],
+      "text": "D1",
+      "orig": "D1",
+      "fontsize": 8.643884612172053,
+      "fontsize0": 8.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t19",
+      "window": "innovations",
+      "pos": [
+        0.006673999999999953,
+        0.1276590002910361
+      ],
+      "text": "D2",
+      "orig": "D2",
+      "fontsize": 8.643884612172053,
+      "fontsize0": 8.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t20",
+      "window": "innovations",
+      "pos": [
+        0.006673999999999953,
+        0.11167529831199073
+      ],
+      "text": "D3",
+      "orig": "D3",
+      "fontsize": 8.643884612172053,
+      "fontsize0": 8.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t21",
+      "window": "innovations",
+      "pos": [
+        0.006673999999999953,
+        0.09569159633294523
+      ],
+      "text": "D4",
+      "orig": "D4",
+      "fontsize": 8.643884612172053,
+      "fontsize0": 8.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t22",
+      "window": "innovations",
+      "pos": [
+        0.006673999999999953,
+        0.07970789435389987
+      ],
+      "text": "D5",
+      "orig": "D5",
+      "fontsize": 8.643884612172053,
+      "fontsize0": 8.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t23",
+      "window": "innovations",
+      "pos": [
+        0.006673999999999953,
+        0.06372419237485451
+      ],
+      "text": "D6",
+      "orig": "D6",
+      "fontsize": 8.643884612172053,
+      "fontsize0": 8.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t24",
+      "window": "innovations",
+      "pos": [
+        0.006673999999999953,
+        0.047740490395809146
+      ],
+      "text": "D7",
+      "orig": "D7",
+      "fontsize": 8.643884612172053,
+      "fontsize0": 8.0,
+      "color": "#888888",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t25",
+      "window": "innovations",
+      "pos": [
+        0.006673999999999953,
+        0.03175678841676372
+      ],
+      "text": "D8",
+      "orig": "D8",
+      "fontsize": 8.643884612172053,
+      "fontsize0": 8.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t26",
+      "window": "innovations",
+      "pos": [
+        0.033525758631089135,
+        0.024913766006984858
+      ],
+      "text": "white tick = 3\u03c3",
+      "orig": "white tick = 3\u03c3",
+      "fontsize": 7.023156247389795,
+      "fontsize0": 6.5,
+      "color": "#999999",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t27",
+      "window": "innovations",
+      "pos": [
+        0.0053,
+        0.6388
+      ],
+      "text": "FOCUS  D5",
+      "orig": "FOCUS  D5",
+      "fontsize": 18.154617991007555,
+      "fontsize0": 13.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t28",
+      "window": "innovations",
+      "pos": [
+        0.07600000000000003,
+        0.613
+      ],
+      "text": "SUSPECT  \u00b7  isolated ATT  \u00b7  injected ATT  \u00b7  PHASE COAST (\u00d71 samples/frame)",
+      "orig": "SUSPECT  \u00b7  isolated ATT  \u00b7  injected ATT  \u00b7  PHASE COAST (\u00d71 samples/frame)",
+      "fontsize": 9.442961447094028,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "innovations/t29",
+      "window": "innovations",
+      "pos": [
+        0.293,
+        0.634
+      ],
+      "text": "NAV NIS   0.1",
+      "orig": "NAV NIS   0.1",
+      "fontsize": 14.593519846617612,
+      "fontsize0": 9.5,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t1",
+      "window": "subsystems",
+      "pos": [
+        0.4689,
+        0.6855
+      ],
+      "text": "SUBSYSTEMS",
+      "orig": "W3 \u00b7 SUBSYSTEMS",
+      "fontsize": 18.0,
+      "fontsize0": 11.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": true
+    },
+    {
+      "id": "subsystems/t2",
+      "window": "subsystems",
+      "pos": [
+        0.3398,
+        0.6618
+      ],
+      "text": "D1",
+      "orig": "D1",
+      "fontsize": 19.326120000000007,
+      "fontsize0": 12.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t3",
+      "window": "subsystems",
+      "pos": [
+        0.3537,
+        0.659
+      ],
+      "text": "SUSPECT",
+      "orig": "SUSPECT",
+      "fontsize": 12.884080000000006,
+      "fontsize0": 8.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t4",
+      "window": "subsystems",
+      "pos": [
+        0.3953,
+        0.6387
+      ],
+      "text": "iso:PROP",
+      "orig": "iso:PROP",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t5",
+      "window": "subsystems",
+      "pos": [
+        0.35537186823174505,
+        0.5541881535947712
+      ],
+      "text": "RCS",
+      "orig": "RCS",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t6",
+      "window": "subsystems",
+      "pos": [
+        0.37851386138613863,
+        0.6138981209150326
+      ],
+      "text": "propellant 100%",
+      "orig": "propellant 100%",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t7",
+      "window": "subsystems",
+      "pos": [
+        0.37851386138613863,
+        0.5936040032679738
+      ],
+      "text": "attitude err 0.6",
+      "orig": "attitude err 0.6",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t8",
+      "window": "subsystems",
+      "pos": [
+        0.37851386138613863,
+        0.573309885620915
+      ],
+      "text": "thrust resid 2.1",
+      "orig": "thrust resid 2.1",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t9",
+      "window": "subsystems",
+      "pos": [
+        0.37851386138613863,
+        0.5508058006535947
+      ],
+      "text": "ISL UP",
+      "orig": "ISL UP",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t10",
+      "window": "subsystems",
+      "pos": [
+        0.4207,
+        0.6644
+      ],
+      "text": "D2",
+      "orig": "D2",
+      "fontsize": 19.326120000000007,
+      "fontsize0": 12.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t11",
+      "window": "subsystems",
+      "pos": [
+        0.437,
+        0.6623
+      ],
+      "text": "FAULTED",
+      "orig": "FAULTED",
+      "fontsize": 12.884080000000006,
+      "fontsize0": 8.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t12",
+      "window": "subsystems",
+      "pos": [
+        0.47940196859529705,
+        0.6399469771241829
+      ],
+      "text": "iso:ATT",
+      "orig": "iso:ATT",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t13",
+      "window": "subsystems",
+      "pos": [
+        0.4362718682317451,
+        0.5553881535947712
+      ],
+      "text": "RCS",
+      "orig": "RCS",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t14",
+      "window": "subsystems",
+      "pos": [
+        0.4594138613861386,
+        0.6150981209150326
+      ],
+      "text": "propellant 100%",
+      "orig": "propellant 100%",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t15",
+      "window": "subsystems",
+      "pos": [
+        0.4594138613861386,
+        0.5948040032679738
+      ],
+      "text": "attitude err 12020.6",
+      "orig": "attitude err 12020.6",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t16",
+      "window": "subsystems",
+      "pos": [
+        0.4594138613861386,
+        0.574509885620915
+      ],
+      "text": "thrust resid 0.0",
+      "orig": "thrust resid 0.0",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t17",
+      "window": "subsystems",
+      "pos": [
+        0.4594138613861386,
+        0.5520058006535947
+      ],
+      "text": "ISL UP",
+      "orig": "ISL UP",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t18",
+      "window": "subsystems",
+      "pos": [
+        0.5062,
+        0.6606
+      ],
+      "text": "D3",
+      "orig": "D3",
+      "fontsize": 19.326120000000007,
+      "fontsize0": 12.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t19",
+      "window": "subsystems",
+      "pos": [
+        0.521,
+        0.6585
+      ],
+      "text": "HEALTHY",
+      "orig": "HEALTHY",
+      "fontsize": 12.884080000000006,
+      "fontsize0": 8.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t20",
+      "window": "subsystems",
+      "pos": [
+        0.5562126131265471,
+        0.6399469771241829
+      ],
+      "text": "iso:NONE",
+      "orig": "iso:NONE",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t21",
+      "window": "subsystems",
+      "pos": [
+        0.5171718682317451,
+        0.5553881535947712
+      ],
+      "text": "RCS",
+      "orig": "RCS",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t22",
+      "window": "subsystems",
+      "pos": [
+        0.5403138613861387,
+        0.6150981209150326
+      ],
+      "text": "propellant 100%",
+      "orig": "propellant 100%",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t23",
+      "window": "subsystems",
+      "pos": [
+        0.5403138613861387,
+        0.5948040032679738
+      ],
+      "text": "attitude err 0.3",
+      "orig": "attitude err 0.3",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t24",
+      "window": "subsystems",
+      "pos": [
+        0.5403138613861387,
+        0.574509885620915
+      ],
+      "text": "thrust resid 0.0",
+      "orig": "thrust resid 0.0",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t25",
+      "window": "subsystems",
+      "pos": [
+        0.5403138613861387,
+        0.5520058006535947
+      ],
+      "text": "ISL UP",
+      "orig": "ISL UP",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t26",
+      "window": "subsystems",
+      "pos": [
+        0.5839554455445545,
+        0.6605511437908497
+      ],
+      "text": "D4",
+      "orig": "D4",
+      "fontsize": 19.326120000000007,
+      "fontsize0": 12.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t27",
+      "window": "subsystems",
+      "pos": [
+        0.5958366336633664,
+        0.658510702614379
+      ],
+      "text": "SUSPECT",
+      "orig": "SUSPECT",
+      "fontsize": 12.884080000000006,
+      "fontsize0": 8.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t28",
+      "window": "subsystems",
+      "pos": [
+        0.6382943514077971,
+        0.6399469771241829
+      ],
+      "text": "iso:PEER",
+      "orig": "iso:PEER",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t29",
+      "window": "subsystems",
+      "pos": [
+        0.5979718682317451,
+        0.5553881535947712
+      ],
+      "text": "RCS",
+      "orig": "RCS",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t30",
+      "window": "subsystems",
+      "pos": [
+        0.6211138613861387,
+        0.6150981209150326
+      ],
+      "text": "propellant 100%",
+      "orig": "propellant 100%",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t31",
+      "window": "subsystems",
+      "pos": [
+        0.6211138613861387,
+        0.5948040032679738
+      ],
+      "text": "attitude err 0.5",
+      "orig": "attitude err 0.5",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t32",
+      "window": "subsystems",
+      "pos": [
+        0.6211138613861387,
+        0.574509885620915
+      ],
+      "text": "thrust resid 0.0",
+      "orig": "thrust resid 0.0",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t33",
+      "window": "subsystems",
+      "pos": [
+        0.6211138613861387,
+        0.5520058006535947
+      ],
+      "text": "ISL UP",
+      "orig": "ISL UP",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t34",
+      "window": "subsystems",
+      "pos": [
+        0.3398,
+        0.5223
+      ],
+      "text": "D5",
+      "orig": "D5",
+      "fontsize": 19.326120000000007,
+      "fontsize0": 12.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t35",
+      "window": "subsystems",
+      "pos": [
+        0.3562,
+        0.5188
+      ],
+      "text": "SUSPECT",
+      "orig": "SUSPECT",
+      "fontsize": 12.884080000000006,
+      "fontsize0": 8.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t36",
+      "window": "subsystems",
+      "pos": [
+        0.398501968595297,
+        0.500246977124183
+      ],
+      "text": "iso:ATT",
+      "orig": "iso:ATT",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t37",
+      "window": "subsystems",
+      "pos": [
+        0.35537186823174505,
+        0.41568815359477124
+      ],
+      "text": "RCS",
+      "orig": "RCS",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t38",
+      "window": "subsystems",
+      "pos": [
+        0.37851386138613863,
+        0.47539812091503264
+      ],
+      "text": "propellant 100%",
+      "orig": "propellant 100%",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t39",
+      "window": "subsystems",
+      "pos": [
+        0.37851386138613863,
+        0.45510400326797384
+      ],
+      "text": "attitude err 8269.4",
+      "orig": "attitude err 8269.4",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t40",
+      "window": "subsystems",
+      "pos": [
+        0.37851386138613863,
+        0.434809885620915
+      ],
+      "text": "thrust resid 0.0",
+      "orig": "thrust resid 0.0",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t41",
+      "window": "subsystems",
+      "pos": [
+        0.37851386138613863,
+        0.41230580065359473
+      ],
+      "text": "ISL UP",
+      "orig": "ISL UP",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t42",
+      "window": "subsystems",
+      "pos": [
+        0.42255544554455443,
+        0.5208511437908496
+      ],
+      "text": "D6",
+      "orig": "D6",
+      "fontsize": 19.326120000000007,
+      "fontsize0": 12.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t43",
+      "window": "subsystems",
+      "pos": [
+        0.4374366336633663,
+        0.5188107026143791
+      ],
+      "text": "HEALTHY",
+      "orig": "HEALTHY",
+      "fontsize": 12.884080000000006,
+      "fontsize0": 8.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t44",
+      "window": "subsystems",
+      "pos": [
+        0.475612613126547,
+        0.500246977124183
+      ],
+      "text": "iso:NONE",
+      "orig": "iso:NONE",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t45",
+      "window": "subsystems",
+      "pos": [
+        0.43657186823174504,
+        0.41568815359477124
+      ],
+      "text": "RCS",
+      "orig": "RCS",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t46",
+      "window": "subsystems",
+      "pos": [
+        0.45971386138613857,
+        0.47539812091503264
+      ],
+      "text": "propellant 100%",
+      "orig": "propellant 100%",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t47",
+      "window": "subsystems",
+      "pos": [
+        0.45971386138613857,
+        0.45510400326797384
+      ],
+      "text": "attitude err 0.5",
+      "orig": "attitude err 0.5",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t48",
+      "window": "subsystems",
+      "pos": [
+        0.45971386138613857,
+        0.434809885620915
+      ],
+      "text": "thrust resid 0.0",
+      "orig": "thrust resid 0.0",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t49",
+      "window": "subsystems",
+      "pos": [
+        0.45971386138613857,
+        0.41230580065359473
+      ],
+      "text": "ISL UP",
+      "orig": "ISL UP",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t50",
+      "window": "subsystems",
+      "pos": [
+        0.5031554455445545,
+        0.5208511437908496
+      ],
+      "text": "D7",
+      "orig": "D7",
+      "fontsize": 19.326120000000007,
+      "fontsize0": 12.0,
+      "color": "#888888",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t51",
+      "window": "subsystems",
+      "pos": [
+        0.5180366336633664,
+        0.5188107026143791
+      ],
+      "text": "DEAD",
+      "orig": "DEAD",
+      "fontsize": 12.884080000000006,
+      "fontsize0": 8.0,
+      "color": "#888888",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t52",
+      "window": "subsystems",
+      "pos": [
+        0.5551139803140471,
+        0.500246977124183
+      ],
+      "text": "iso:COMM",
+      "orig": "iso:COMM",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t53",
+      "window": "subsystems",
+      "pos": [
+        0.5171718682317451,
+        0.41568815359477124
+      ],
+      "text": "RCS",
+      "orig": "RCS",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t54",
+      "window": "subsystems",
+      "pos": [
+        0.5403138613861387,
+        0.47539812091503264
+      ],
+      "text": "propellant 100%",
+      "orig": "propellant 100%",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t55",
+      "window": "subsystems",
+      "pos": [
+        0.5403138613861387,
+        0.45510400326797384
+      ],
+      "text": "attitude err 0.0",
+      "orig": "attitude err 0.0",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t56",
+      "window": "subsystems",
+      "pos": [
+        0.5403138613861387,
+        0.434809885620915
+      ],
+      "text": "thrust resid 0.0",
+      "orig": "thrust resid 0.0",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t57",
+      "window": "subsystems",
+      "pos": [
+        0.5403138613861387,
+        0.41230580065359473
+      ],
+      "text": "ISL DOWN",
+      "orig": "ISL DOWN",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t58",
+      "window": "subsystems",
+      "pos": [
+        0.5839554455445545,
+        0.5208511437908496
+      ],
+      "text": "D8",
+      "orig": "D8",
+      "fontsize": 19.326120000000007,
+      "fontsize0": 12.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t59",
+      "window": "subsystems",
+      "pos": [
+        0.5988366336633664,
+        0.5188107026143791
+      ],
+      "text": "HEALTHY",
+      "orig": "HEALTHY",
+      "fontsize": 12.884080000000006,
+      "fontsize0": 8.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t60",
+      "window": "subsystems",
+      "pos": [
+        0.6370126131265471,
+        0.500246977124183
+      ],
+      "text": "iso:NONE",
+      "orig": "iso:NONE",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t61",
+      "window": "subsystems",
+      "pos": [
+        0.5979718682317451,
+        0.41568815359477124
+      ],
+      "text": "RCS",
+      "orig": "RCS",
+      "fontsize": 7.5,
+      "fontsize0": 7.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t62",
+      "window": "subsystems",
+      "pos": [
+        0.6211138613861387,
+        0.47539812091503264
+      ],
+      "text": "propellant 100%",
+      "orig": "propellant 100%",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t63",
+      "window": "subsystems",
+      "pos": [
+        0.6211138613861387,
+        0.45510400326797384
+      ],
+      "text": "attitude err 0.6",
+      "orig": "attitude err 0.6",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t64",
+      "window": "subsystems",
+      "pos": [
+        0.6211138613861387,
+        0.434809885620915
+      ],
+      "text": "thrust resid 0.0",
+      "orig": "thrust resid 0.0",
+      "fontsize": 6.5,
+      "fontsize0": 6.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t65",
+      "window": "subsystems",
+      "pos": [
+        0.6211138613861387,
+        0.41230580065359473
+      ],
+      "text": "ISL UP",
+      "orig": "ISL UP",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "subsystems/t66",
+      "window": "subsystems",
+      "pos": [
+        0.39827890269196553,
+        0.37949881247578454
+      ],
+      "text": "TCM @f220",
+      "orig": "TCM @f220",
+      "fontsize": 6.0091874413635695,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t67",
+      "window": "subsystems",
+      "pos": [
+        0.4852044369169036,
+        0.37949881247578454
+      ],
+      "text": "TCM @f500",
+      "orig": "TCM @f500",
+      "fontsize": 6.0091874413635695,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t68",
+      "window": "subsystems",
+      "pos": [
+        0.5721299711418417,
+        0.37949881247578454
+      ],
+      "text": "TCM @f780",
+      "orig": "TCM @f780",
+      "fontsize": 6.0091874413635695,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "subsystems/t69",
+      "window": "subsystems",
+      "pos": [
+        0.3417648501210567,
+        0.3703647278186749
+      ],
+      "text": "TCM schedule",
+      "orig": "TCM schedule",
+      "fontsize": 6.0091874413635695,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "coverage/t1",
+      "window": "coverage",
+      "pos": [
+        0.7902,
+        0.6653
+      ],
+      "text": "COVERAGE & STROBE",
+      "orig": "W8 \u00b7 COVERAGE & STROBE",
+      "fontsize": 18.0,
+      "fontsize0": 11.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": true
+    },
+    {
+      "id": "coverage/t2",
+      "window": "coverage",
+      "pos": [
+        -330.9059968365701,
+        0.5065349138086908
+      ],
+      "text": "SUN",
+      "orig": "SUN",
+      "fontsize": 8.0,
+      "fontsize0": 8.0,
+      "color": "#ffe08a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "coverage/t3",
+      "window": "coverage",
+      "pos": [
+        -1954.2724140611103,
+        -3005.902745156602
+      ],
+      "text": "D1",
+      "orig": "D1",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "coverage/t4",
+      "window": "coverage",
+      "pos": [
+        -946.1277741999877,
+        2072.4398534834427
+      ],
+      "text": "D2",
+      "orig": "D2",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "coverage/t5",
+      "window": "coverage",
+      "pos": [
+        -804.1724650877251,
+        2223.1901008882655
+      ],
+      "text": "D3",
+      "orig": "D3",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "coverage/t6",
+      "window": "coverage",
+      "pos": [
+        -1952.865713401947,
+        -1939.4578749626526
+      ],
+      "text": "D4",
+      "orig": "D4",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "coverage/t7",
+      "window": "coverage",
+      "pos": [
+        1302.7709370217676,
+        -3464.756613488684
+      ],
+      "text": "D5",
+      "orig": "D5",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "coverage/t8",
+      "window": "coverage",
+      "pos": [
+        1585.2780951214913,
+        3142.676700724786
+      ],
+      "text": "D6",
+      "orig": "D6",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "coverage/t9",
+      "window": "coverage",
+      "pos": [
+        1756.374757188793,
+        2746.5260912400236
+      ],
+      "text": "D8",
+      "orig": "D8",
+      "fontsize": 7.0,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t1",
+      "window": "deputy",
+      "pos": [
+        0.2029,
+        0.3286
+      ],
+      "text": "DEPUTY DEEP-DIVE",
+      "orig": "W5 \u00b7 DEPUTY DEEP-DIVE",
+      "fontsize": 18.0,
+      "fontsize0": 11.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": true
+    },
+    {
+      "id": "deputy/t2",
+      "window": "deputy",
+      "pos": [
+        0.1282548141479492,
+        0.29776043750000003
+      ],
+      "text": "D5",
+      "orig": "D5",
+      "fontsize": 22.560328331653338,
+      "fontsize0": 24.0,
+      "color": "#000000",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t3",
+      "window": "deputy",
+      "pos": [
+        0.1210703076171875,
+        0.263993140625
+      ],
+      "text": "SUSPECT",
+      "orig": "SUSPECT",
+      "fontsize": 12.220177846312225,
+      "fontsize0": 13.0,
+      "color": "#000000",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "deputy/t4",
+      "window": "deputy",
+      "pos": [
+        0.11224439697265624,
+        0.23780337500000004
+      ],
+      "text": "isolated fault: ATT",
+      "orig": "isolated fault: ATT",
+      "fontsize": 9.400136804855558,
+      "fontsize0": 10.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "deputy/t5",
+      "window": "deputy",
+      "pos": [
+        0.1096881118774414,
+        0.203331953125
+      ],
+      "text": "detection confidence  1.00",
+      "orig": "detection confidence  1.00",
+      "fontsize": 7.990116284127224,
+      "fontsize0": 8.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t6",
+      "window": "deputy",
+      "pos": [
+        0.27321088751057243,
+        0.25467928343718305
+      ],
+      "text": "TRIP threshold",
+      "orig": "TRIP threshold",
+      "fontsize": 6.360397952399701,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "deputy/t7",
+      "window": "deputy",
+      "pos": [
+        0.3188082096829975,
+        0.0849081490382053
+      ],
+      "text": "D5",
+      "orig": "D5",
+      "fontsize": 7.892699932547759,
+      "fontsize0": 7.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t8",
+      "window": "deputy",
+      "pos": [
+        0.35180750685401097,
+        0.08988513481110456
+      ],
+      "text": "D1",
+      "orig": "D1",
+      "fontsize": 6.765171370755223,
+      "fontsize0": 6.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t9",
+      "window": "deputy",
+      "pos": [
+        0.3395231364613961,
+        0.1395835673226039
+      ],
+      "text": "D2",
+      "orig": "D2",
+      "fontsize": 6.765171370755223,
+      "fontsize0": 6.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t10",
+      "window": "deputy",
+      "pos": [
+        0.3120269898097208,
+        0.15185806648967337
+      ],
+      "text": "D3",
+      "orig": "D3",
+      "fontsize": 6.765171370755223,
+      "fontsize0": 6.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t11",
+      "window": "deputy",
+      "pos": [
+        0.2899176430818312,
+        0.11746568408535653
+      ],
+      "text": "D4",
+      "orig": "D4",
+      "fontsize": 6.765171370755223,
+      "fontsize0": 6.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t12",
+      "window": "deputy",
+      "pos": [
+        0.2899176430818312,
+        0.062304585536852586
+      ],
+      "text": "D6",
+      "orig": "D6",
+      "fontsize": 6.765171370755223,
+      "fontsize0": 6.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t13",
+      "window": "deputy",
+      "pos": [
+        0.3119941645142003,
+        0.027912203132535812
+      ],
+      "text": "D7",
+      "orig": "D7",
+      "fontsize": 6.765171370755223,
+      "fontsize0": 6.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t14",
+      "window": "deputy",
+      "pos": [
+        0.3395231364613961,
+        0.04018670229960519
+      ],
+      "text": "D8",
+      "orig": "D8",
+      "fontsize": 6.765171370755223,
+      "fontsize0": 6.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t15",
+      "window": "deputy",
+      "pos": [
+        0.28825266709972,
+        0.1575557845686577
+      ],
+      "text": "chief link q=0.59",
+      "orig": "chief link q=0.59",
+      "fontsize": 7.892699932547759,
+      "fontsize0": 7.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t16",
+      "window": "deputy",
+      "pos": [
+        0.37274779222192006,
+        0.3019298641975309
+      ],
+      "text": "FDIR DECISION LOG",
+      "orig": "FDIR DECISION LOG",
+      "fontsize": 9.271775861045551,
+      "fontsize0": 10.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "deputy/t17",
+      "window": "deputy",
+      "pos": [
+        0.3667397200734149,
+        0.28678788117283954
+      ],
+      "text": "f589",
+      "orig": "f589",
+      "fontsize": 6.490243102731885,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t18",
+      "window": "deputy",
+      "pos": [
+        0.37357070436033674,
+        0.28492391512345683
+      ],
+      "text": "D2 ATT fault -> ATT isolated -> SAFE_HOLD; D3",
+      "orig": "D2 ATT fault -> ATT isolated -> SAFE_HOLD; D3",
+      "fontsize": 6.119372068290063,
+      "fontsize0": 6.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t19",
+      "window": "deputy",
+      "pos": [
+        0.3667397200734149,
+        0.2663254811728395
+      ],
+      "text": "f561",
+      "orig": "f561",
+      "fontsize": 6.490243102731885,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t20",
+      "window": "deputy",
+      "pos": [
+        0.37357070436033674,
+        0.2644615151234568
+      ],
+      "text": "D4 safe-hold cleared -> RESTORED",
+      "orig": "D4 safe-hold cleared -> RESTORED",
+      "fontsize": 6.119372068290063,
+      "fontsize0": 6.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t21",
+      "window": "deputy",
+      "pos": [
+        0.3667397200734149,
+        0.24586308117283956
+      ],
+      "text": "f552",
+      "orig": "f552",
+      "fontsize": 6.490243102731885,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t22",
+      "window": "deputy",
+      "pos": [
+        0.37357070436033674,
+        0.24484372473958338
+      ],
+      "text": "D1 FORM fault -> FORM isolated -> MODE_SWITCH",
+      "orig": "D1 FORM fault -> FORM isolated -> MODE_SWITCH",
+      "fontsize": 6.119372068290063,
+      "fontsize0": 6.6,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t23",
+      "window": "deputy",
+      "pos": [
+        0.3667397200734149,
+        0.22540068117283957
+      ],
+      "text": "f526",
+      "orig": "f526",
+      "fontsize": 6.490243102731885,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t24",
+      "window": "deputy",
+      "pos": [
+        0.37357070436033674,
+        0.22353671512345685
+      ],
+      "text": "D4 PEER fault -> PEER isolated -> SAFE_HOLD; D",
+      "orig": "D4 PEER fault -> PEER isolated -> SAFE_HOLD; D",
+      "fontsize": 6.119372068290063,
+      "fontsize0": 6.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t25",
+      "window": "deputy",
+      "pos": [
+        0.3667397200734149,
+        0.20493828117283958
+      ],
+      "text": "f500",
+      "orig": "f500",
+      "fontsize": 6.490243102731885,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t26",
+      "window": "deputy",
+      "pos": [
+        0.37357070436033674,
+        0.20307431512345686
+      ],
+      "text": "D1 FORM fault -> FORM isolated -> MODE_SWITCH",
+      "orig": "D1 FORM fault -> FORM isolated -> MODE_SWITCH",
+      "fontsize": 6.119372068290063,
+      "fontsize0": 6.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t27",
+      "window": "deputy",
+      "pos": [
+        0.3667397200734149,
+        0.18447588117283953
+      ],
+      "text": "f438",
+      "orig": "f438",
+      "fontsize": 6.490243102731885,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t28",
+      "window": "deputy",
+      "pos": [
+        0.37357070436033674,
+        0.1826119151234568
+      ],
+      "text": "D6 NAV fault -> NAV isolated -> REINIT -> RECO",
+      "orig": "D6 NAV fault -> NAV isolated -> REINIT -> RECO",
+      "fontsize": 6.119372068290063,
+      "fontsize0": 6.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t29",
+      "window": "deputy",
+      "pos": [
+        0.3667397200734149,
+        0.1640134811728396
+      ],
+      "text": "f372",
+      "orig": "f372",
+      "fontsize": 6.490243102731885,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t30",
+      "window": "deputy",
+      "pos": [
+        0.37357070436033674,
+        0.16214951512345682
+      ],
+      "text": "D6 NAV fault -> NAV isolated -> REINIT -> RECO",
+      "orig": "D6 NAV fault -> NAV isolated -> REINIT -> RECO",
+      "fontsize": 6.119372068290063,
+      "fontsize0": 6.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t31",
+      "window": "deputy",
+      "pos": [
+        0.3667397200734149,
+        0.14355108117283955
+      ],
+      "text": "f291",
+      "orig": "f291",
+      "fontsize": 6.490243102731885,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t32",
+      "window": "deputy",
+      "pos": [
+        0.37357070436033674,
+        0.14253172473958337
+      ],
+      "text": "D7 COMM fault -> COMM isolated -> DEAD - relay",
+      "orig": "D7 COMM fault -> COMM isolated -> DEAD - relay",
+      "fontsize": 6.119372068290063,
+      "fontsize0": 6.6,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t33",
+      "window": "deputy",
+      "pos": [
+        0.3667397200734149,
+        0.12308868117283953
+      ],
+      "text": "f262",
+      "orig": "f262",
+      "fontsize": 6.490243102731885,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t34",
+      "window": "deputy",
+      "pos": [
+        0.37357070436033674,
+        0.12122471512345684
+      ],
+      "text": "D5 safe-hold cleared -> RESTORED",
+      "orig": "D5 safe-hold cleared -> RESTORED",
+      "fontsize": 6.119372068290063,
+      "fontsize0": 6.6,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t35",
+      "window": "deputy",
+      "pos": [
+        0.3667397200734149,
+        0.10262628117283956
+      ],
+      "text": "f250",
+      "orig": "f250",
+      "fontsize": 6.490243102731885,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t36",
+      "window": "deputy",
+      "pos": [
+        0.37357070436033674,
+        0.10076231512345683
+      ],
+      "text": "D7 COMM fault -> COMM isolated -> RELOAD -> RE",
+      "orig": "D7 COMM fault -> COMM isolated -> RELOAD -> RE",
+      "fontsize": 6.119372068290063,
+      "fontsize0": 6.6,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t37",
+      "window": "deputy",
+      "pos": [
+        0.3667397200734149,
+        0.08216388117283953
+      ],
+      "text": "f227",
+      "orig": "f227",
+      "fontsize": 6.490243102731885,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t38",
+      "window": "deputy",
+      "pos": [
+        0.37357070436033674,
+        0.08114452473958336
+      ],
+      "text": "D5 PEER fault -> PEER isolated -> SAFE_HOLD; D",
+      "orig": "D5 PEER fault -> PEER isolated -> SAFE_HOLD; D",
+      "fontsize": 6.119372068290063,
+      "fontsize0": 6.6,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t39",
+      "window": "deputy",
+      "pos": [
+        0.3667397200734149,
+        0.06170148117283952
+      ],
+      "text": "f181",
+      "orig": "f181",
+      "fontsize": 6.490243102731885,
+      "fontsize0": 7.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t40",
+      "window": "deputy",
+      "pos": [
+        0.37357070436033674,
+        0.05983751512345682
+      ],
+      "text": "D5 safe-hold cleared -> RESTORED",
+      "orig": "D5 safe-hold cleared -> RESTORED",
+      "fontsize": 6.119372068290063,
+      "fontsize0": 6.6,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t41",
+      "window": "deputy",
+      "pos": [
+        0.36947347893215116,
+        0.04948088117283951
+      ],
+      "text": "FOCUS D5: injected = ATT",
+      "orig": "FOCUS D5: injected = ATT",
+      "fontsize": 7.881009481888718,
+      "fontsize0": 8.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "deputy/t42",
+      "window": "deputy",
+      "pos": [
+        0.364,
+        0.0366918811728395
+      ],
+      "text": "FDI isolated = ATT   state = SUSPECT",
+      "orig": "FDI isolated = ATT   state = SUSPECT",
+      "fontsize": 7.41742068883644,
+      "fontsize0": 8.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "isl/t1",
+      "window": "isl",
+      "pos": [
+        0.5683,
+        0.3288
+      ],
+      "text": "ISL NETWORK",
+      "orig": "W6 \u00b7 ISL NETWORK",
+      "fontsize": 18.0,
+      "fontsize0": 11.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": true
+    },
+    {
+      "id": "isl/t2",
+      "window": "isl",
+      "pos": [
+        0.5337801953125,
+        0.1498669322709164
+      ],
+      "text": "CHIEF",
+      "orig": "CHIEF",
+      "fontsize": 8.931921246577346,
+      "fontsize0": 9.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "isl/t3",
+      "window": "isl",
+      "pos": [
+        0.4823691158188594,
+        0.093391065174127
+      ],
+      "text": "DATA\u2192CHIEF",
+      "orig": "DATA\u2192CHIEF",
+      "fontsize": 6.450832011416972,
+      "fontsize0": 6.5,
+      "color": "#ff5db1",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "isl/t4",
+      "window": "isl",
+      "pos": [
+        0.22069999999999998,
+        0.6355
+      ],
+      "text": "DATA\u2192CHIEF",
+      "orig": "DATA\u2192CHIEF",
+      "fontsize": 12.081898273015529,
+      "fontsize0": 6.5,
+      "color": "#ff5db1",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "isl/t5",
+      "window": "isl",
+      "pos": [
+        0.48615386190945925,
+        0.10744861125459877
+      ],
+      "text": "IMG",
+      "orig": "IMG",
+      "fontsize": 6.947049858449048,
+      "fontsize0": 7.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "isl/t6",
+      "window": "isl",
+      "pos": [
+        0.5536746620477629,
+        0.09546139232277472
+      ],
+      "text": "D1",
+      "orig": "D1",
+      "fontsize": 7.443267705481123,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t7",
+      "window": "isl",
+      "pos": [
+        0.23260000000000006,
+        0.6144000000000001
+      ],
+      "text": "D2",
+      "orig": "D2",
+      "fontsize": 13.940651853479459,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t8",
+      "window": "isl",
+      "pos": [
+        0.4839632564375591,
+        0.10876810952630554
+      ],
+      "text": "D3",
+      "orig": "D3",
+      "fontsize": 7.443267705481123,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t9",
+      "window": "isl",
+      "pos": [
+        0.524679099048614,
+        0.11826328509869564
+      ],
+      "text": "D4",
+      "orig": "D4",
+      "fontsize": 7.443267705481123,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t10",
+      "window": "isl",
+      "pos": [
+        0.5640867232038543,
+        0.04184572051203982
+      ],
+      "text": "D5",
+      "orig": "D5",
+      "fontsize": 7.443267705481123,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t11",
+      "window": "isl",
+      "pos": [
+        0.5412174220209214,
+        0.19476785350640097
+      ],
+      "text": "D6",
+      "orig": "D6",
+      "fontsize": 7.443267705481123,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t12",
+      "window": "isl",
+      "pos": [
+        0.5752318882996631,
+        0.056390358207185645
+      ],
+      "text": "D7",
+      "orig": "D7",
+      "fontsize": 7.443267705481123,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t13",
+      "window": "isl",
+      "pos": [
+        0.2551,
+        0.6364
+      ],
+      "text": "LOST",
+      "orig": "LOST",
+      "fontsize": 13.290088100317083,
+      "fontsize0": 6.5,
+      "color": "#b2b2b2",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "isl/t14",
+      "window": "isl",
+      "pos": [
+        0.5405936500414179,
+        0.17069610400772228
+      ],
+      "text": "D8",
+      "orig": "D8",
+      "fontsize": 7.443267705481123,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t15",
+      "window": "isl",
+      "pos": [
+        0.6372,
+        0.2978
+      ],
+      "text": "COMMS / RELAY STATUS",
+      "orig": "COMMS / RELAY STATUS",
+      "fontsize": 9.937006883015801,
+      "fontsize0": 10.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "isl/t16",
+      "window": "isl",
+      "pos": [
+        0.6289779999999999,
+        0.2800515625
+      ],
+      "text": "DATA ROUTED TO CHIEF",
+      "orig": "DATA ROUTED TO CHIEF",
+      "fontsize": 8.446455850563432,
+      "fontsize0": 8.5,
+      "color": "#ff5db1",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "isl/t17",
+      "window": "isl",
+      "pos": [
+        0.63083,
+        0.26587656249999997
+      ],
+      "text": "D2 (FAULTED) \u2192 D4 \u2192 CHIEF",
+      "orig": "D2 (FAULTED) \u2192 D4 \u2192 CHIEF",
+      "fontsize": 7.452755162261851,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t18",
+      "window": "isl",
+      "pos": [
+        0.63083,
+        0.25311906249999994
+      ],
+      "text": "D7 (DEAD) \u2192 D1 \u2192 CHIEF",
+      "orig": "D7 (DEAD) \u2192 D1 \u2192 CHIEF",
+      "fontsize": 7.452755162261851,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t19",
+      "window": "isl",
+      "pos": [
+        0.6289779999999999,
+        0.23185656249999992
+      ],
+      "text": "PEER IMAGING HAND-OFFS",
+      "orig": "PEER IMAGING HAND-OFFS",
+      "fontsize": 8.446455850563432,
+      "fontsize0": 8.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "isl/t20",
+      "window": "isl",
+      "pos": [
+        0.63083,
+        0.21768156249999993
+      ],
+      "text": "D3 photographs D2",
+      "orig": "D3 photographs D2",
+      "fontsize": 7.452755162261851,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t21",
+      "window": "isl",
+      "pos": [
+        0.6289779999999999,
+        0.19641906249999996
+      ],
+      "text": "LINK QUALITY (to chief)",
+      "orig": "LINK QUALITY (to chief)",
+      "fontsize": 8.446455850563432,
+      "fontsize0": 8.5,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "isl/t22",
+      "window": "isl",
+      "pos": [
+        0.63083,
+        0.18224406249999991
+      ],
+      "text": "D1",
+      "orig": "D1",
+      "fontsize": 7.452755162261851,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t23",
+      "window": "isl",
+      "pos": [
+        0.702132,
+        0.18224406249999991
+      ],
+      "text": "0.73",
+      "orig": "0.73",
+      "fontsize": 6.955904818111061,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t24",
+      "window": "isl",
+      "pos": [
+        0.63083,
+        0.17147106249999988
+      ],
+      "text": "D2",
+      "orig": "D2",
+      "fontsize": 7.452755162261851,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t25",
+      "window": "isl",
+      "pos": [
+        0.702132,
+        0.17147106249999988
+      ],
+      "text": "0.63",
+      "orig": "0.63",
+      "fontsize": 6.955904818111061,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t26",
+      "window": "isl",
+      "pos": [
+        0.63083,
+        0.1606980624999999
+      ],
+      "text": "D3",
+      "orig": "D3",
+      "fontsize": 7.452755162261851,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t27",
+      "window": "isl",
+      "pos": [
+        0.702132,
+        0.1606980624999999
+      ],
+      "text": "0.64",
+      "orig": "0.64",
+      "fontsize": 6.955904818111061,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t28",
+      "window": "isl",
+      "pos": [
+        0.63083,
+        0.14992506249999993
+      ],
+      "text": "D4",
+      "orig": "D4",
+      "fontsize": 7.452755162261851,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t29",
+      "window": "isl",
+      "pos": [
+        0.702132,
+        0.14992506249999993
+      ],
+      "text": "0.77",
+      "orig": "0.77",
+      "fontsize": 6.955904818111061,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t30",
+      "window": "isl",
+      "pos": [
+        0.63083,
+        0.13915206249999992
+      ],
+      "text": "D5",
+      "orig": "D5",
+      "fontsize": 7.452755162261851,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t31",
+      "window": "isl",
+      "pos": [
+        0.702132,
+        0.13915206249999992
+      ],
+      "text": "0.59",
+      "orig": "0.59",
+      "fontsize": 6.955904818111061,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t32",
+      "window": "isl",
+      "pos": [
+        0.63083,
+        0.12837906249999992
+      ],
+      "text": "D6",
+      "orig": "D6",
+      "fontsize": 7.452755162261851,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t33",
+      "window": "isl",
+      "pos": [
+        0.702132,
+        0.12837906249999992
+      ],
+      "text": "0.61",
+      "orig": "0.61",
+      "fontsize": 6.955904818111061,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t34",
+      "window": "isl",
+      "pos": [
+        0.63083,
+        0.11760606249999994
+      ],
+      "text": "D7",
+      "orig": "D7",
+      "fontsize": 7.452755162261851,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t35",
+      "window": "isl",
+      "pos": [
+        0.702132,
+        0.11760606249999994
+      ],
+      "text": "0.00",
+      "orig": "0.00",
+      "fontsize": 6.955904818111061,
+      "fontsize0": 7.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t36",
+      "window": "isl",
+      "pos": [
+        0.63083,
+        0.10683306249999994
+      ],
+      "text": "D8",
+      "orig": "D8",
+      "fontsize": 7.452755162261851,
+      "fontsize0": 7.5,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "isl/t37",
+      "window": "isl",
+      "pos": [
+        0.702132,
+        0.10683306249999994
+      ],
+      "text": "0.60",
+      "orig": "0.60",
+      "fontsize": 6.955904818111061,
+      "fontsize0": 7.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t1",
+      "window": "loss",
+      "pos": [
+        0.8546,
+        0.3272
+      ],
+      "text": "LOSS COMPENSATION",
+      "orig": "W9 \u00b7 LOSS COMPENSATION",
+      "fontsize": 18.0,
+      "fontsize0": 11.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": true
+    },
+    {
+      "id": "loss/t2",
+      "window": "loss",
+      "pos": [
+        0.791177384832367,
+        0.14921163873394735
+      ],
+      "text": "APOPHIS",
+      "orig": "APOPHIS",
+      "fontsize": 8.259048722120923,
+      "fontsize0": 8.0,
+      "color": "#cc9966",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "loss/t3",
+      "window": "loss",
+      "pos": [
+        0.7405331037514489,
+        0.17660016610455348
+      ],
+      "text": "D1",
+      "orig": "D1",
+      "fontsize": 7.742858176988365,
+      "fontsize0": 7.5,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t4",
+      "window": "loss",
+      "pos": [
+        0.814185281423193,
+        0.24716185260045592
+      ],
+      "text": "D2 LOST",
+      "orig": "D2 LOST",
+      "fontsize": 8.259048722120923,
+      "fontsize0": 8.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t5",
+      "window": "loss",
+      "pos": [
+        0.8241157228852733,
+        0.22471189877770573
+      ],
+      "text": "D3",
+      "orig": "D3",
+      "fontsize": 7.742858176988365,
+      "fontsize0": 7.5,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t6",
+      "window": "loss",
+      "pos": [
+        0.8125937542605148,
+        0.2154252495032611
+      ],
+      "text": "0.18 m/s",
+      "orig": "0.18 m/s",
+      "fontsize": 7.0201914138027846,
+      "fontsize0": 6.8,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t7",
+      "window": "loss",
+      "pos": [
+        0.7529348854457346,
+        0.1895719328784602
+      ],
+      "text": "D4",
+      "orig": "D4",
+      "fontsize": 7.742858176988365,
+      "fontsize0": 7.5,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t8",
+      "window": "loss",
+      "pos": [
+        0.7798632770266489,
+        0.07954546564681075
+      ],
+      "text": "D5",
+      "orig": "D5",
+      "fontsize": 7.742858176988365,
+      "fontsize0": 7.5,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t9",
+      "window": "loss",
+      "pos": [
+        0.8450848172940041,
+        0.11649125409542122
+      ],
+      "text": "D6",
+      "orig": "D6",
+      "fontsize": 7.742858176988365,
+      "fontsize0": 7.5,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t10",
+      "window": "loss",
+      "pos": [
+        0.8288837535813418,
+        0.13402626406055568
+      ],
+      "text": "0.19 m/s",
+      "orig": "0.19 m/s",
+      "fontsize": 7.0201914138027846,
+      "fontsize0": 6.8,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t11",
+      "window": "loss",
+      "pos": [
+        0.7681233957768501,
+        0.08913860636777694
+      ],
+      "text": "D7 LOST",
+      "orig": "D7 LOST",
+      "fontsize": 8.259048722120923,
+      "fontsize0": 8.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t12",
+      "window": "loss",
+      "pos": [
+        0.8420935931079843,
+        0.10513568607043369
+      ],
+      "text": "D8",
+      "orig": "D8",
+      "fontsize": 7.742858176988365,
+      "fontsize0": 7.5,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t13",
+      "window": "loss",
+      "pos": [
+        0.8267582369014298,
+        0.12522532540685097
+      ],
+      "text": "0.18 m/s",
+      "orig": "0.18 m/s",
+      "fontsize": 7.0201914138027846,
+      "fontsize0": 6.8,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t14",
+      "window": "loss",
+      "pos": [
+        0.7970939568314201,
+        0.17348311451027632
+      ],
+      "text": "GAP",
+      "orig": "GAP",
+      "fontsize": 8.259048722120923,
+      "fontsize0": 8.0,
+      "color": "#ff4444",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "loss/t15",
+      "window": "loss",
+      "pos": [
+        0.91251983753396,
+        0.29391774951778327
+      ],
+      "text": "12\u00b0",
+      "orig": "12\u00b0",
+      "fontsize": 5.373492493774061,
+      "fontsize0": 6.5,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t16",
+      "window": "loss",
+      "pos": [
+        0.943777690166024,
+        0.28963509571814455
+      ],
+      "text": "12\u00b0",
+      "orig": "12\u00b0",
+      "fontsize": 5.373492493774061,
+      "fontsize0": 6.5,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t17",
+      "window": "loss",
+      "pos": [
+        0.9750355427980879,
+        0.2916676047982242
+      ],
+      "text": "12\u00b0",
+      "orig": "12\u00b0",
+      "fontsize": 5.373492493774061,
+      "fontsize0": 6.5,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t18",
+      "window": "loss",
+      "pos": [
+        0.9138127354213169,
+        0.1517
+      ],
+      "text": "COMPENSATION SUMMARY",
+      "orig": "COMPENSATION SUMMARY",
+      "fontsize": 9.009103108423648,
+      "fontsize0": 10.0,
+      "color": "#33bbff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "loss/t19",
+      "window": "loss",
+      "pos": [
+        0.898055,
+        0.13729900894700622
+      ],
+      "text": "deputies lost",
+      "orig": "deputies lost",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "loss/t20",
+      "window": "loss",
+      "pos": [
+        0.975645424194336,
+        0.13729900894700622
+      ],
+      "text": "D2, D7",
+      "orig": "D2, D7",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t21",
+      "window": "loss",
+      "pos": [
+        0.898055,
+        0.12617097040605643
+      ],
+      "text": "helpers",
+      "orig": "helpers",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "loss/t22",
+      "window": "loss",
+      "pos": [
+        0.9865965725272042,
+        0.12617097040605643
+      ],
+      "text": "3",
+      "orig": "3",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t23",
+      "window": "loss",
+      "pos": [
+        0.898055,
+        0.11504293186510667
+      ],
+      "text": "total \u0394V",
+      "orig": "total \u0394V",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "loss/t24",
+      "window": "loss",
+      "pos": [
+        0.9719060076904297,
+        0.11504293186510667
+      ],
+      "text": "0.95 m/s",
+      "orig": "0.95 m/s",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t25",
+      "window": "loss",
+      "pos": [
+        0.898055,
+        0.10391489332415693
+      ],
+      "text": "total RW momentum",
+      "orig": "total RW momentum",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "loss/t26",
+      "window": "loss",
+      "pos": [
+        0.9662078492082868,
+        0.10391489332415693
+      ],
+      "text": "3.3 mN\u00b7m\u00b7s",
+      "orig": "3.3 mN\u00b7m\u00b7s",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t27",
+      "window": "loss",
+      "pos": [
+        0.898055,
+        0.09278685478320717
+      ],
+      "text": "maneuver horizon",
+      "orig": "maneuver horizon",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "loss/t28",
+      "window": "loss",
+      "pos": [
+        0.9727963449532645,
+        0.09278685478320717
+      ],
+      "text": "163 min",
+      "orig": "163 min",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t29",
+      "window": "loss",
+      "pos": [
+        0.898055,
+        0.08165881624225742
+      ],
+      "text": "lost-footprint facets",
+      "orig": "lost-footprint facets",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "loss/t30",
+      "window": "loss",
+      "pos": [
+        0.9816106838553292,
+        0.08165881624225742
+      ],
+      "text": "366",
+      "orig": "366",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffffff",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    },
+    {
+      "id": "loss/t31",
+      "window": "loss",
+      "pos": [
+        0.898055,
+        0.06267569167240193
+      ],
+      "text": "lost-region coverage",
+      "orig": "lost-region coverage",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#ffcc00",
+      "ha": "left",
+      "va": "top",
+      "dynamic": false,
+      "title": false
+    },
+    {
+      "id": "loss/t32",
+      "window": "loss",
+      "pos": [
+        0.8938691807338169,
+        0.03714666207845836
+      ],
+      "text": "14%  \u2192  17%   (survivors recover +2% of the gap)",
+      "orig": "14%  \u2192  17%   (survivors recover +2% of the gap)",
+      "fontsize": 8.108192797581285,
+      "fontsize0": 9.0,
+      "color": "#00ff6a",
+      "ha": "left",
+      "va": "top",
+      "dynamic": true,
+      "title": false
+    }
+  ]
+}

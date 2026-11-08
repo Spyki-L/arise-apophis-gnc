@@ -1,0 +1,8 @@
+STYLE (append to every prompt):
+photoreal cinematic space documentary, NASA/ESA mission film look, deep black space,
+hard single sunlight from one side with soft blue Earth-shine fill, crisp starfield,
+no lens flare spam, no text, no captions, no watermark, no people, no UI overlays,
+subtle slow camera move, shallow depth cues, 16:9, filmic color, high detail.
+NEGATIVE (paste into negative prompt if available):
+text, subtitles, captions, watermark, logo, UI, HUD, people, astronauts, cartoon,
+low-poly, video-game look, lens dirt, heavy flares, wobbling geometry, morphing panels.

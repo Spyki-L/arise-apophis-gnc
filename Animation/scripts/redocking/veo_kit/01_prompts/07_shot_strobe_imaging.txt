@@ -1,0 +1,14 @@
+SHOT 7 — CLOSE-APPROACH STROBE IMAGING (8 s)  ★ signature shot
+INGREDIENTS: 03_cad/cad_apophis_shape_model.png + 04_trajectory_plates/plate_imaging_formation.png
+
+PROMPT:
+Eight small CubeSats surround a large rotating grey asteroid at close range, arranged
+around it like a shell. In sequence, brilliant white camera flashes fire from the
+spacecraft — quick bright bursts that briefly light up the asteroid's dark shadowed
+side, revealing surface detail in the darkness before fading. Multiple flashes ripple
+around the body. Camera drifts slowly past the asteroid. Dramatic, high contrast.
+STYLE (append to every prompt):
+photoreal cinematic space documentary, NASA/ESA mission film look, deep black space,
+hard single sunlight from one side with soft blue Earth-shine fill, crisp starfield,
+no lens flare spam, no text, no captions, no watermark, no people, no UI overlays,
+subtle slow camera move, shallow depth cues, 16:9, filmic color, high detail.

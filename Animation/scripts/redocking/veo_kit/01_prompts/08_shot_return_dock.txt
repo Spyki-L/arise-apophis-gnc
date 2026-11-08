@@ -1,0 +1,14 @@
+SHOT 8 — RETURN & DOCKING (8 s)
+INGREDIENTS: 03_cad/cad_fleet_docked_on_ring.png + 04_trajectory_plates/plate_return_dock.png
+
+PROMPT:
+Small CubeSats approach a cylindrical metallic ring structure on a larger spacecraft,
+converging from different directions and slowing as they close in. One eases precisely
+into its docking port on the ring and locks on. The camera holds tight on the ring as
+the spacecraft arrive one by one, then slowly pulls back to reveal all eight docked
+around the ring. Precise, controlled, weightless motion. Sunlight from upper left.
+STYLE (append to every prompt):
+photoreal cinematic space documentary, NASA/ESA mission film look, deep black space,
+hard single sunlight from one side with soft blue Earth-shine fill, crisp starfield,
+no lens flare spam, no text, no captions, no watermark, no people, no UI overlays,
+subtle slow camera move, shallow depth cues, 16:9, filmic color, high detail.

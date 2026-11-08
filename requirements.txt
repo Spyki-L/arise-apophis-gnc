@@ -1,0 +1,26 @@
+# Basilisk is not on PyPI; build it from https://github.com/AVSLab/basilisk
+numpy
+scipy
+matplotlib
+tqdm
+pandas
+imageio
+imageio-ffmpeg
+SciencePlots
+
+# redocking RL and FDIR learning
+torch
+gymnasium
+stable-baselines3
+pettingzoo
+supersuit
+tensorboard
+
+# optional: formal checks, tuning, live dashboards
+z3-solver
+cma
+pyqtgraph
+PySide6
+pyvista
+numba
+sympy

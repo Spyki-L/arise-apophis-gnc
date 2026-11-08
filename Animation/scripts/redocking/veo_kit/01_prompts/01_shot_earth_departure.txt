@@ -1,0 +1,14 @@
+SHOT 1 — EARTH DEPARTURE (8 s)
+INGREDIENTS: 02_reference_frames/ref_t1s.jpg  (+ ref_t6s.jpg)
+
+PROMPT:
+A white cylindrical carrier spacecraft drifts in the foreground on the right, slowly
+rotating, while Earth fills the left third of frame — deep blue ocean, white cloud
+swirls, thin bright atmospheric limb, city lights glittering on the night side.
+The camera drifts slowly right-to-left past the spacecraft, revealing the black gulf
+of space ahead. Sunlight rakes across the hull from the upper left.
+STYLE (append to every prompt):
+photoreal cinematic space documentary, NASA/ESA mission film look, deep black space,
+hard single sunlight from one side with soft blue Earth-shine fill, crisp starfield,
+no lens flare spam, no text, no captions, no watermark, no people, no UI overlays,
+subtle slow camera move, shallow depth cues, 16:9, filmic color, high detail.

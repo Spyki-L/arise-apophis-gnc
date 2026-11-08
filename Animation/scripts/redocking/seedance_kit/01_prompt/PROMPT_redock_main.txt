@@ -1,0 +1,79 @@
+==================================================================
+SEEDANCE 2.5 · MULTI REFERENCE · ARISE RE-DOCKING  (main prompt)
+==================================================================
+UPLOAD IN THIS EXACT ORDER — the @ numbers depend on it.
+
+Reference Images (4):
+  1. img1_cubesat_clean.png             -> @Image1  CubeSat, from your own video
+  2. img2_espa_ring_with_8_docked.png   -> @Image2  the finished end state
+  3. img3_espa_ring_empty_ports.png     -> @Image3  the ring, ports empty
+  4. img4_cubesat_cad_hero.png          -> @Image4  CubeSat CAD, 2nd angle
+
+Reference Videos (2):
+  1. ref1_cubesat_beauty_5s.mp4         -> @Video1  style / lighting / motion lock
+  2. ref2_fleet_asteroid_6s.mp4         -> @Video2  fleet-in-space look
+
+Settings: 16:9 · highest resolution · 20–30 s · Return Last Frame = ON
+
+------------------------------------------------------------------
+PROMPT — copy everything below this line
+------------------------------------------------------------------
+Photoreal spacecraft docking sequence in deep space. Continue the exact visual world
+of @Video1 and @Video2 — same spacecraft, same materials, same lighting, same camera
+language. No cuts to any other location.
+
+THE HARDWARE — keep these EXACTLY as shown, do not redesign:
+• Eight identical 6U CubeSats, exactly as in @Image1 and @Image4: a flat rectangular
+  box roughly twice as long as it is wide, bare polished aluminium corner rails,
+  dark blue-green solar panels covering the long faces, a single circular camera lens
+  recessed in one short end, small gold-foil patches and thruster nozzles.
+• One central chief spacecraft: a squat cylindrical metallic ring, as in @Image3 —
+  brushed silver-grey barrel, dark structural bands top and bottom, and eight small
+  circular docking ports spaced evenly at 45° around its outer wall, each port a pale
+  ring seal on a short collar.
+• Scale: each CubeSat is small next to the ring — about a third of the ring's width.
+
+THE ACTION — one continuous shot, no cuts:
+1. OPENING (first third): the eight CubeSats hang in black space around the ring at
+   varying distances, arriving from different directions, all noses turned toward it.
+   They close in very slowly, drifting inward on a steady, patient glide. Occasional
+   brief silent puffs of pale cold-gas thrust correct their alignment. The ring sits
+   at frame centre, slowly growing.
+2. MIDDLE: the nearest CubeSat lines up with an empty port on the ring's outer wall,
+   its long axis pointing at the port, and creeps the last stretch — motion so slow it
+   is almost still, a few centimetres per second. It makes contact, settles, and locks
+   flush against the collar with a tiny rebound. It goes still, now part of the ring.
+3. Then the next, and the next: CubeSats settle into ports around the ring one at a
+   time, at uneven intervals — two arrive close together, then a pause, then another.
+   Each performs the same slow, precise final approach and lock.
+4. CLOSING (last third): the final CubeSat eases into the last free port. All eight are
+   now docked evenly around the ring, exactly matching @Image2. The camera pulls back
+   slowly to hold on the complete assembled spacecraft, sunlight rimming its edge.
+
+CAMERA: one unbroken slow shot. Start close on the ring and one approaching CubeSat,
+drift gently sideways around the ring so the docked spacecraft pass through frame in
+parallax, then ease back into a wide final view. Slow, smooth, locked-off feel —
+like a documentary camera flying in formation. No shake, no whip pans, no zoom snaps.
+
+LIGHTING: one hard white sun from the upper left throwing crisp black shadows; a weak
+cool blue fill from the opposite side so the shadowed faces stay just readable; deep
+black space; fine sharp stars; no haze, no god rays, no lens flare.
+
+PHYSICS — this is what makes it look real: everything drifts, nothing falls. Motion is
+weightless, linear and unhurried, with slow lazy rotation and no wobble. Spacecraft
+never overshoot, never bounce apart, never swerve. Thruster puffs are brief, silent,
+pale, and immediately followed by a change in drift. Contact is gentle — a soft settle,
+not an impact.
+
+STRICT CONSISTENCY: the CubeSats must stay rigid and identical to each other and to
+@Image1 throughout — same proportions, same panel layout, same lens end. The ring must
+keep exactly eight ports and never change shape or size. Nothing morphs, melts, grows
+extra parts, or changes colour between the start and the end of the shot.
+
+NEGATIVE — do not include: text, labels, callouts, captions, subtitles, watermarks,
+logos, UI, HUD, arrows, diagrams, people, astronauts, robotic arms, Earth, the Moon,
+any asteroid, planets, nebulae, clouds, atmosphere, dust, smoke trails, fire, sparks,
+laser beams, glowing engine plumes, cartoon or video-game rendering, plastic toy look,
+morphing or deforming spacecraft, rubbery panels, duplicated or extra spacecraft,
+fast cuts, scene changes, camera shake, motion blur streaks, lens flare.
+------------------------------------------------------------------

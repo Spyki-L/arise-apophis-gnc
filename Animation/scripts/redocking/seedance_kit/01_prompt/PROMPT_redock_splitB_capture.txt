@@ -1,0 +1,14 @@
+OPTIONAL SPLIT B — CAPTURE & FINAL (12–15 s)
+Same uploads. If you enabled "Return Last Frame" on Split A, upload that returned
+frame as an extra image and add: "continue seamlessly from @Image5".
+
+PROMPT:
+A small 6U CubeSat exactly like @Image1 eases the final centimetres into an empty
+docking port on the cylindrical metallic ring from @Image3 and latches on. One by one
+the remaining CubeSats settle into their ports around the ring until all eight are
+docked exactly as in @Image2. The camera pulls back slowly to reveal the complete
+assembled spacecraft, sunlight rimming the ring. Keep the exact design, materials and
+lighting of @Video1. Slow, weightless, precise. Photoreal, 16:9.
+
+NEGATIVE: text, labels, watermark, people, cartoon, morphing spacecraft, fast camera,
+Earth, asteroid, cuts.

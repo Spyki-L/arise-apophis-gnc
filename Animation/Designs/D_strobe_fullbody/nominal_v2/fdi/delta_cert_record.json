@@ -1,0 +1,134 @@
+{
+  "artifact": "ARISE CORTEX FDIR \u2014 Delta-Certification Record (FR7 / \u00a76.8 conformance)",
+  "generated": "2026-07-08T00:35:18Z",
+  "profile_independent_core": {
+    "files": {
+      "rta.py": "7b529f65354714a9",
+      "behavior_tree.py": "cdb7e8bffbfc19ee",
+      "planner.py": "d3aa681b62d5bea2",
+      "peer_cbf.py": "38d4875c97b6584f",
+      "csrc/vsc_spine.c": "8139ce32fc58c147",
+      "csrc/vsc_spine.h": "7a3e8e5cbe715952"
+    },
+    "statement": "These SHAs are identical across every profile evaluated -> one safety-critical binary across missions. The FR2 machine-checked invariants (RTA soundness, CBF invariance, BT LTL spec, planner WCET cap) therefore carry over UNCHANGED (see FORMAL_VERIFICATION.md)."
+  },
+  "profiles": [
+    {
+      "name": "ARISE_Apophis_DesignD",
+      "source": "profiles/apophis.json",
+      "n_deputies": 8,
+      "checks": {
+        "C1": {
+          "status": "PASS",
+          "detail": "DynamicsModel: mean_motion=0.0001 rad/s (CW-Hill); keep-out CBF = peer_cbf (profile-independent form). Regime-CBF certification = author obligation (\u00a76.9.3)."
+        },
+        "C2": {
+          "status": "PASS",
+          "detail": "ActuationModel: dV budget=10.0 m/s bounded -> safety predicate + reach well-defined."
+        },
+        "C3": {
+          "status": "PENDING",
+          "detail": "VSC: contingency-table entries=0 (safe-hold + CBF-safe disposal already in code). Tier-1 table is profile DATA \u2014 author per \u00a76.9.3 (currently stub)."
+        },
+        "C4": {
+          "status": "PASS",
+          "detail": "ObjectiveModel: metric='facet_stereo_coverage', bounded target=0.85 in [0,1], tiers=[0.15, 1.0] (performance, not certified)."
+        },
+        "C5": {
+          "status": "PASS",
+          "detail": "DeadlineModel: form_window=3600.0 s; t_go derivable (inf permitted)."
+        },
+        "C6": {
+          "status": "PENDING",
+          "detail": "CommsModel: ISL declared ('S-band+crosslink'); quantitative latency/topology bounds not yet in profile schema \u2014 supply per \u00a76.9 (declaration only)."
+        }
+      },
+      "safety_gating_pass": false,
+      "verdict": "DELTA REQUIRED before flight: C3, C6",
+      "delta_to_certify": [
+        "C3",
+        "C6"
+      ]
+    },
+    {
+      "name": "ARISE_Apophis_Test4",
+      "source": "profiles/apophis_test4.json",
+      "n_deputies": 4,
+      "checks": {
+        "C1": {
+          "status": "PASS",
+          "detail": "DynamicsModel: mean_motion=0.0001 rad/s (CW-Hill); keep-out CBF = peer_cbf (profile-independent form). Regime-CBF certification = author obligation (\u00a76.9.3)."
+        },
+        "C2": {
+          "status": "PASS",
+          "detail": "ActuationModel: dV budget=10.0 m/s bounded -> safety predicate + reach well-defined."
+        },
+        "C3": {
+          "status": "PENDING",
+          "detail": "VSC: contingency-table entries=0 (safe-hold + CBF-safe disposal already in code). Tier-1 table is profile DATA \u2014 author per \u00a76.9.3 (currently stub)."
+        },
+        "C4": {
+          "status": "PASS",
+          "detail": "ObjectiveModel: metric='facet_stereo_coverage', bounded target=0.85 in [0,1], tiers=[0.15, 1.0] (performance, not certified)."
+        },
+        "C5": {
+          "status": "PASS",
+          "detail": "DeadlineModel: form_window=3600.0 s; t_go derivable (inf permitted)."
+        },
+        "C6": {
+          "status": "PENDING",
+          "detail": "CommsModel: ISL declared ('S-band+crosslink'); quantitative latency/topology bounds not yet in profile schema \u2014 supply per \u00a76.9 (declaration only)."
+        }
+      },
+      "safety_gating_pass": false,
+      "verdict": "DELTA REQUIRED before flight: C3, C6",
+      "delta_to_certify": [
+        "C3",
+        "C6"
+      ]
+    },
+    {
+      "name": "GEO_Inspection_Swarm",
+      "source": "profiles/toy_inspect.json",
+      "n_deputies": 4,
+      "checks": {
+        "C1": {
+          "status": "PASS",
+          "detail": "DynamicsModel: mean_motion=7.29e-05 rad/s (CW-Hill); keep-out CBF = peer_cbf (profile-independent form). Regime-CBF certification = author obligation (\u00a76.9.3)."
+        },
+        "C2": {
+          "status": "PASS",
+          "detail": "ActuationModel: dV budget=50.0 m/s bounded -> safety predicate + reach well-defined."
+        },
+        "C3": {
+          "status": "PENDING",
+          "detail": "VSC: contingency-table entries=0 (safe-hold + CBF-safe disposal already in code). Tier-1 table is profile DATA \u2014 author per \u00a76.9.3 (currently stub)."
+        },
+        "C4": {
+          "status": "PASS",
+          "detail": "ObjectiveModel: metric='viewsphere_coverage', bounded target=0.95 in [0,1], tiers=[0.05] (performance, not certified)."
+        },
+        "C5": {
+          "status": "PASS",
+          "detail": "DeadlineModel: form_window=7200.0 s; t_go derivable (inf permitted)."
+        },
+        "C6": {
+          "status": "PENDING",
+          "detail": "CommsModel: ISL declared ('crosslink'); quantitative latency/topology bounds not yet in profile schema \u2014 supply per \u00a76.9 (declaration only)."
+        }
+      },
+      "safety_gating_pass": false,
+      "verdict": "DELTA REQUIRED before flight: C3, C6",
+      "delta_to_certify": [
+        "C3",
+        "C6"
+      ]
+    }
+  ],
+  "safety_transfer_statement": "Per \u00a76.8: a profile that discharges C1\u2013C6 with the CBF (C1) and VSC (C3) certified for its regime inherits the SAFETY_CASE top claim unchanged, because the simplex argument is profile-independent and the only profile-specific safety objects are the CBF and the VSC.",
+  "delta_to_certify_any_profile": [
+    "C3",
+    "C6"
+  ],
+  "conclusion": "Bringing a new mission onboard is a DELTA-CERT: re-verify the profile data + the regime VSC/CBF (the pending items), re-run this suite, re-baseline the Monte-Carlo \u2014 WITHOUT re-certifying the agent core."
+}

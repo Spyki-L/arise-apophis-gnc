@@ -1,0 +1,19 @@
+{
+ "scen": "PEER_STRESS",
+ "n": 50,
+ "mad_floor": 0.25,
+ "correct": 0,
+ "wrong": 0,
+ "missed": 0,
+ "ci": [
+  0.9286499658256813,
+  1.0
+ ],
+ "early_peer_first": 0,
+ "n_form_fleetwide": 0,
+ "healthy_trials": 50,
+ "fa_trials": 0,
+ "peakS_peer_median": 0.0,
+ "delay_median": null,
+ "wall_s": 8.460564136505127
+}

@@ -1,0 +1,15 @@
+SHOT 4 — SEPARATION / DEPLOY (8 s)
+INGREDIENTS: 03_cad/cad_fleet_docked_on_ring.png  (primary)
+             04_trajectory_plates/plate_separation_real.png (motion reference)
+
+PROMPT:
+Eight small CubeSats are mounted around a cylindrical metallic ring structure on a
+larger spacecraft. One after another they gently push away from the ring, drifting
+outward in all directions in slow motion, tumbling slightly as they separate and fan
+out into space. Tiny puffs of cold gas. The camera holds on the ring then slowly pulls
+back as the fleet disperses. Sunlight from the left, Earth glow far below.
+STYLE (append to every prompt):
+photoreal cinematic space documentary, NASA/ESA mission film look, deep black space,
+hard single sunlight from one side with soft blue Earth-shine fill, crisp starfield,
+no lens flare spam, no text, no captions, no watermark, no people, no UI overlays,
+subtle slow camera move, shallow depth cues, 16:9, filmic color, high detail.

@@ -1,0 +1,19 @@
+{
+ "scen": "NAV_GLOBAL_ABSORBED",
+ "n": 60,
+ "mad_floor": 0.25,
+ "correct": 0,
+ "wrong": 0,
+ "missed": 0,
+ "ci": [
+  0.9398260695220669,
+  0.9999999999999999
+ ],
+ "early_peer_first": 0,
+ "n_form_fleetwide": 0,
+ "healthy_trials": 60,
+ "fa_trials": 0,
+ "peakS_peer_median": 0.0,
+ "delay_median": null,
+ "wall_s": 10.05766487121582
+}

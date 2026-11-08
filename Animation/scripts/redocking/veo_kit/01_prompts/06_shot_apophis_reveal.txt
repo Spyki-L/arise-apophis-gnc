@@ -1,0 +1,13 @@
+SHOT 6 — APOPHIS REVEAL (8 s)
+INGREDIENTS: 03_cad/cad_apophis_shape_model.png (primary — the real radar shape)
+
+PROMPT:
+A large irregular peanut-shaped grey asteroid rotates slowly against black space, its
+cratered dusty surface raked by hard sunlight from the right, the terminator line
+cutting deep shadow across it. Camera slowly arcs around the asteroid revealing its
+elongated silhouette. Fine regolith detail, no atmosphere, sharp shadows.
+STYLE (append to every prompt):
+photoreal cinematic space documentary, NASA/ESA mission film look, deep black space,
+hard single sunlight from one side with soft blue Earth-shine fill, crisp starfield,
+no lens flare spam, no text, no captions, no watermark, no people, no UI overlays,
+subtle slow camera move, shallow depth cues, 16:9, filmic color, high detail.

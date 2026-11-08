@@ -1,0 +1,26 @@
+CONDENSED VERSION (~180 words) — use if the box rejects long prompts,
+or as the second attempt if the detailed one over-thinks the scene.
+Same uploads, same order.
+
+------------------------------------------------------------------
+Photoreal deep-space docking, continuing the exact world of @Video1 — same spacecraft,
+same lighting, no cuts.
+
+Eight identical 6U CubeSats exactly as in @Image1 and @Image4 (rectangular box, polished
+aluminium rails, dark blue-green solar panels, one circular camera lens on the short end)
+drift slowly toward the squat cylindrical metallic ring from @Image3, which has eight
+small docking ports evenly spaced around its outer wall.
+
+They close in on a patient glide with brief pale cold-gas puffs. One CubeSat lines up
+with an empty port, creeps the last few centimetres, and locks flush against it. Then
+another, then another at uneven intervals, until all eight are docked evenly around the
+ring exactly as in @Image2. The camera drifts slowly around the ring in one unbroken
+shot, then eases back to a wide final view.
+
+Weightless, unhurried, precise. Hard sunlight upper left, cool blue fill, black space,
+sharp stars.
+
+NEGATIVE: text, labels, watermark, UI, people, Earth, asteroid, planets, dust, flares,
+glowing plumes, cartoon look, morphing or deforming spacecraft, extra spacecraft,
+cuts, camera shake.
+------------------------------------------------------------------

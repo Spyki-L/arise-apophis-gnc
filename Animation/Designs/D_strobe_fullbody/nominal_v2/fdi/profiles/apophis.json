@@ -1,0 +1,39 @@
+{
+  "name": "ARISE_Apophis_DesignD",
+  "target": {
+    "name": "99942 Apophis",
+    "kind": "shape_spin",
+    "n_facets": 3996,
+    "spin_period_h": 30.6,
+    "npa_tumble": true
+  },
+  "objective": {
+    "name": "whole_body_stereo_coverage",
+    "metric": "facet_stereo_coverage",
+    "resolution_tiers_m": [0.15, 1.0],
+    "target_value": 0.85
+  },
+  "fleet": {
+    "n_deputies": 8,
+    "bus": "BlueCanyon_XB6",
+    "adcs": "XACT",
+    "prop": "coldgas_RCS+RW",
+    "isl": "S-band+crosslink",
+    "camera": "7cm_NAC+strobe",
+    "dv_budget_mps": 10.0
+  },
+  "encounter": {
+    "epoch_utc": "2029-04-13T20:11:21.903Z",
+    "v_rel_kms": 8.76,
+    "ca_distance_km": 38000.0,
+    "form_window_s": 3600.0,
+    "mean_motion_radps": 1.0e-4
+  },
+  "contingency_table": {},
+  "surrogate_correction": 1.20,
+  "meta": {
+    "design": "D_strobe_fullbody",
+    "nu_nav": 1.5,
+    "h_nav": 15.0
+  }
+}
